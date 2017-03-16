@@ -492,11 +492,11 @@ def pred_tournaments(years, seeds, model, stats):
 		df.to_csv(f, index=False)
 
 # This is where we define our network. Pretty fun to tweak things.
-def define_model():
+def define_model(input):
 	model = Sequential([
 		# For each training iteration, we're going to drop 10% of the input
 		# nodes, randomly.  This helps avoid overfitting.
-	    Dropout(0.1, input_shape=(len(X[0]),)),
+	    Dropout(0.1, input_shape=(len(input[0]),)),
 
 	    # We normalize the inputs to make it easier to weight them correctly.
 	    BatchNormalization(epsilon=0.001, mode=0, axis=-1, momentum=0.99, weights=None, beta_init='zero', gamma_init='one', gamma_regularizer=None, beta_regularizer=None),
@@ -570,7 +570,7 @@ def main():
 	y2 = to_categorical(y)
 	yt2 = to_categorical(yt)
 
-	model = define_model()
+	model = define_model(X)
 
 	# Fit the model to the training set. This is the part where the machine learns.
 	model.fit(X, y2, nb_epoch=1000, batch_size=256)
