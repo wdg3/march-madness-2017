@@ -8,3 +8,6 @@ Dependencies:
 - SciPy
 - sklearn
 - Keras
+
+To Run:
+Once dependencies are installed, run 'python madness.py' from 'source' directory.
