@@ -1,0 +1,2348 @@
+Game ID, Winner, Loser
+0,W11,USC,Providence
+1,W16,Mt St Mary's,New Orleans
+2,Y16,UC Davis,NC Central
+3,Z11,Kansas St,Wake Forest
+4,R1W1,Villanova,Mt St Mary's
+5,R1W2,Duke,Troy
+6,R1W3,Baylor,New Mexico St
+7,R1W4,Florida,ETSU
+8,R1W5,Virginia,UNC Wilmington
+9,R1W6,SMU,USC
+10,R1W7,South Carolina,Marquette
+11,R1W8,Wisconsin,Virginia Tech
+12,R1X1,Gonzaga,S Dakota St
+13,R1X2,Arizona,North Dakota
+14,R1X3,Florida St,FL Gulf Coast
+15,R1X4,West Virginia,Bucknell
+16,R1X5,Notre Dame,Princeton
+17,R1X6,Maryland,Xavier
+18,R1X7,VA Commonwealth,St Mary's CA
+19,R1X8,Northwestern,Vanderbilt
+20,R1Y1,Kansas,UC Davis
+21,R1Y2,Louisville,Jacksonville St
+22,R1Y3,Oregon,Iona
+23,R1Y4,Purdue,Vermont
+24,R1Y5,Iowa St,Nevada
+25,R1Y6,Creighton,Rhode Island
+26,R1Y7,Michigan,Oklahoma St
+27,R1Y8,Miami FL,Michigan St
+28,R1Z1,North Carolina,TX Southern
+29,R1Z2,Kentucky,N Kentucky
+30,R1Z3,UCLA,Kent
+31,R1Z4,Butler,Winthrop
+32,R1Z5,Minnesota,MTSU
+33,R1Z6,Cincinnati,Kansas St
+34,R1Z7,Dayton,Wichita St
+35,R1Z8,Arkansas,Seton Hall
+36,R2W1,Villanova,Wisconsin
+37,R2W2,Duke,South Carolina
+38,R2W3,Baylor,SMU
+39,R2W4,Virginia,Florida
+40,R2X1,Gonzaga,Northwestern
+41,R2X2,Arizona,VA Commonwealth
+42,R2X3,Florida St,Maryland
+43,R2X4,Notre Dame,West Virginia
+44,R2Y1,Kansas,Miami FL
+45,R2Y2,Michigan,Louisville
+46,R2Y3,Oregon,Creighton
+47,R2Y4,Iowa St,Purdue
+48,R2Z1,North Carolina,Arkansas
+49,R2Z2,Kentucky,Dayton
+50,R2Z3,UCLA,Cincinnati
+51,R2Z4,Minnesota,Butler
+52,R3W1,Villanova,Virginia
+53,R3W2,Duke,Baylor
+54,R3X1,Gonzaga,Notre Dame
+55,R3X2,Arizona,Florida St
+56,R3Y1,Kansas,Iowa St
+57,R3Y2,Oregon,Michigan
+58,R3Z1,North Carolina,Minnesota
+59,R3Z2,Kentucky,UCLA
+60,R4W1,Villanova,Duke
+61,R4X1,Arizona,Gonzaga
+62,R4Y1,Kansas,Oregon
+63,R4Z1,Kentucky,North Carolina
+64,R5WX,Villanova,Arizona
+65,R5YZ,Kentucky,Kansas
+66,R6CH,Villanova,Kentucky
+
+Team A, ,Team B,Chance Team A wins
+Arizona,over,Arkansas,58.00%
+Arizona,over,Baylor,67.85%
+Arizona,over,Bucknell,72.35%
+Arizona,over,Butler,50.38%
+Arizona,over,Cincinnati,53.44%
+Arizona,over,Creighton,61.71%
+Arizona,over,Dayton,58.38%
+Arizona,over,Duke,54.88%
+Arizona,over,ETSU,74.94%
+Arizona,over,FL Gulf Coast,75.10%
+Arizona,over,Florida,51.60%
+Arizona,over,Florida St,51.01%
+Arizona,over,Gonzaga,51.26%
+Arizona,over,Iona,69.87%
+Arizona,over,Iowa St,51.10%
+Arizona,over,Jacksonville St,85.36%
+Arizona,over,Kansas,55.84%
+Arizona,over,Kansas St,64.42%
+Arizona,over,Kent,70.60%
+Arizona,over,Kentucky,50.89%
+Arizona,over,Louisville,50.65%
+Arizona,over,Marquette,64.41%
+Arizona,over,Maryland,65.25%
+Arizona,over,Miami FL,65.53%
+Arizona,over,Michigan,54.04%
+Arizona,over,Michigan St,78.03%
+Arizona,over,Minnesota,56.37%
+Arizona,over,Mt St Mary's,72.22%
+Arizona,over,MTSU,74.28%
+Arizona,over,N Kentucky,82.20%
+Arizona,over,NC Central,82.97%
+Arizona,over,Nevada,69.93%
+Arizona,over,New Mexico St,78.75%
+Arizona,over,New Orleans,83.77%
+Arizona,over,North Carolina,52.90%
+Arizona,over,North Dakota,80.04%
+Arizona,over,Northwestern,59.93%
+Arizona,over,Notre Dame,50.48%
+Arizona,over,Oklahoma St,63.53%
+Arizona,over,Oregon,46.70%
+Arizona,over,Princeton,66.34%
+Arizona,over,Providence,66.79%
+Arizona,over,Purdue,64.07%
+Arizona,over,Rhode Island,67.55%
+Arizona,over,S Dakota St,78.89%
+Arizona,over,Seton Hall,68.58%
+Arizona,over,SMU,64.65%
+Arizona,over,South Carolina,56.02%
+Arizona,over,St Mary's CA,69.20%
+Arizona,over,Troy,71.67%
+Arizona,over,TX Southern,71.46%
+Arizona,over,UC Davis,74.97%
+Arizona,over,UCLA,60.17%
+Arizona,over,UNC Wilmington,66.49%
+Arizona,over,USC,65.01%
+Arizona,over,VA Commonwealth,64.57%
+Arizona,over,Vanderbilt,70.08%
+Arizona,over,Vermont,70.30%
+Arizona,over,Villanova,45.42%
+Arizona,over,Virginia,52.73%
+Arizona,over,Virginia Tech,67.64%
+Arizona,over,Wake Forest,69.63%
+Arizona,over,West Virginia,50.96%
+Arizona,over,Wichita St,63.55%
+Arizona,over,Winthrop,74.07%
+Arizona,over,Wisconsin,58.42%
+Arizona,over,Xavier,70.22%
+Arkansas,over,Baylor,62.29%
+Arkansas,over,Bucknell,67.19%
+Arkansas,over,Butler,40.97%
+Arkansas,over,Cincinnati,39.70%
+Arkansas,over,Creighton,50.26%
+Arkansas,over,Dayton,47.71%
+Arkansas,over,Duke,45.99%
+Arkansas,over,ETSU,69.17%
+Arkansas,over,FL Gulf Coast,69.22%
+Arkansas,over,Florida,43.55%
+Arkansas,over,Florida St,43.35%
+Arkansas,over,Gonzaga,37.82%
+Arkansas,over,Iona,64.90%
+Arkansas,over,Iowa St,43.15%
+Arkansas,over,Jacksonville St,80.11%
+Arkansas,over,Kansas,42.40%
+Arkansas,over,Kansas St,58.51%
+Arkansas,over,Kent,65.42%
+Arkansas,over,Kentucky,41.38%
+Arkansas,over,Louisville,42.23%
+Arkansas,over,Marquette,58.52%
+Arkansas,over,Maryland,57.69%
+Arkansas,over,Miami FL,59.99%
+Arkansas,over,Michigan,45.82%
+Arkansas,over,Michigan St,70.63%
+Arkansas,over,Minnesota,48.40%
+Arkansas,over,Mt St Mary's,67.13%
+Arkansas,over,MTSU,66.82%
+Arkansas,over,N Kentucky,75.79%
+Arkansas,over,NC Central,76.32%
+Arkansas,over,Nevada,64.76%
+Arkansas,over,New Mexico St,72.25%
+Arkansas,over,New Orleans,77.65%
+Arkansas,over,North Carolina,38.98%
+Arkansas,over,North Dakota,73.22%
+Arkansas,over,Northwestern,52.47%
+Arkansas,over,Notre Dame,41.21%
+Arkansas,over,Oklahoma St,57.39%
+Arkansas,over,Oregon,37.47%
+Arkansas,over,Princeton,60.84%
+Arkansas,over,Providence,61.07%
+Arkansas,over,Purdue,53.82%
+Arkansas,over,Rhode Island,62.27%
+Arkansas,over,S Dakota St,72.13%
+Arkansas,over,Seton Hall,62.77%
+Arkansas,over,SMU,57.45%
+Arkansas,over,South Carolina,50.00%
+Arkansas,over,St Mary's CA,59.16%
+Arkansas,over,Troy,66.37%
+Arkansas,over,TX Southern,66.54%
+Arkansas,over,UC Davis,69.10%
+Arkansas,over,UCLA,42.44%
+Arkansas,over,UNC Wilmington,61.57%
+Arkansas,over,USC,59.69%
+Arkansas,over,VA Commonwealth,56.40%
+Arkansas,over,Vanderbilt,64.17%
+Arkansas,over,Vermont,65.47%
+Arkansas,over,Villanova,37.79%
+Arkansas,over,Virginia,41.99%
+Arkansas,over,Virginia Tech,61.97%
+Arkansas,over,Wake Forest,63.86%
+Arkansas,over,West Virginia,41.49%
+Arkansas,over,Wichita St,57.01%
+Arkansas,over,Winthrop,68.43%
+Arkansas,over,Wisconsin,50.05%
+Arkansas,over,Xavier,64.46%
+Baylor,over,Bucknell,64.73%
+Baylor,over,Butler,40.31%
+Baylor,over,Cincinnati,39.73%
+Baylor,over,Creighton,48.46%
+Baylor,over,Dayton,45.17%
+Baylor,over,Duke,40.70%
+Baylor,over,ETSU,66.80%
+Baylor,over,FL Gulf Coast,66.69%
+Baylor,over,Florida,41.29%
+Baylor,over,Florida St,41.13%
+Baylor,over,Gonzaga,36.47%
+Baylor,over,Iona,61.51%
+Baylor,over,Iowa St,40.78%
+Baylor,over,Jacksonville St,78.26%
+Baylor,over,Kansas,40.95%
+Baylor,over,Kansas St,55.72%
+Baylor,over,Kent,61.30%
+Baylor,over,Kentucky,39.67%
+Baylor,over,Louisville,40.48%
+Baylor,over,Marquette,55.59%
+Baylor,over,Maryland,56.40%
+Baylor,over,Miami FL,54.92%
+Baylor,over,Michigan,42.79%
+Baylor,over,Michigan St,69.57%
+Baylor,over,Minnesota,42.43%
+Baylor,over,Mt St Mary's,64.45%
+Baylor,over,MTSU,66.44%
+Baylor,over,N Kentucky,71.61%
+Baylor,over,NC Central,76.03%
+Baylor,over,Nevada,61.99%
+Baylor,over,New Mexico St,69.80%
+Baylor,over,New Orleans,76.45%
+Baylor,over,North Carolina,39.35%
+Baylor,over,North Dakota,72.46%
+Baylor,over,Northwestern,46.78%
+Baylor,over,Notre Dame,40.16%
+Baylor,over,Oklahoma St,54.99%
+Baylor,over,Oregon,37.29%
+Baylor,over,Princeton,58.20%
+Baylor,over,Providence,59.67%
+Baylor,over,Purdue,52.79%
+Baylor,over,Rhode Island,59.40%
+Baylor,over,S Dakota St,69.32%
+Baylor,over,Seton Hall,60.32%
+Baylor,over,SMU,54.75%
+Baylor,over,South Carolina,47.15%
+Baylor,over,St Mary's CA,60.72%
+Baylor,over,Troy,62.71%
+Baylor,over,TX Southern,62.59%
+Baylor,over,UC Davis,65.63%
+Baylor,over,UCLA,43.73%
+Baylor,over,UNC Wilmington,58.25%
+Baylor,over,USC,53.99%
+Baylor,over,VA Commonwealth,53.73%
+Baylor,over,Vanderbilt,61.85%
+Baylor,over,Vermont,62.00%
+Baylor,over,Villanova,36.33%
+Baylor,over,Virginia,41.40%
+Baylor,over,Virginia Tech,59.44%
+Baylor,over,Wake Forest,62.49%
+Baylor,over,West Virginia,41.12%
+Baylor,over,Wichita St,51.67%
+Baylor,over,Winthrop,65.72%
+Baylor,over,Wisconsin,44.33%
+Baylor,over,Xavier,62.09%
+Bucknell,over,Butler,32.58%
+Bucknell,over,Cincinnati,32.54%
+Bucknell,over,Creighton,34.77%
+Bucknell,over,Dayton,35.42%
+Bucknell,over,Duke,31.84%
+Bucknell,over,ETSU,56.91%
+Bucknell,over,FL Gulf Coast,57.88%
+Bucknell,over,Florida,32.68%
+Bucknell,over,Florida St,31.83%
+Bucknell,over,Gonzaga,28.85%
+Bucknell,over,Iona,53.76%
+Bucknell,over,Iowa St,32.92%
+Bucknell,over,Jacksonville St,70.73%
+Bucknell,over,Kansas,30.74%
+Bucknell,over,Kansas St,42.11%
+Bucknell,over,Kent,55.41%
+Bucknell,over,Kentucky,30.77%
+Bucknell,over,Louisville,32.01%
+Bucknell,over,Marquette,42.44%
+Bucknell,over,Maryland,37.93%
+Bucknell,over,Miami FL,40.53%
+Bucknell,over,Michigan,34.18%
+Bucknell,over,Michigan St,60.67%
+Bucknell,over,Minnesota,33.32%
+Bucknell,over,Mt St Mary's,58.63%
+Bucknell,over,MTSU,51.89%
+Bucknell,over,N Kentucky,64.98%
+Bucknell,over,NC Central,63.79%
+Bucknell,over,Nevada,45.70%
+Bucknell,over,New Mexico St,60.58%
+Bucknell,over,New Orleans,68.28%
+Bucknell,over,North Carolina,30.84%
+Bucknell,over,North Dakota,63.38%
+Bucknell,over,Northwestern,35.68%
+Bucknell,over,Notre Dame,31.52%
+Bucknell,over,Oklahoma St,44.05%
+Bucknell,over,Oregon,29.46%
+Bucknell,over,Princeton,45.06%
+Bucknell,over,Providence,45.21%
+Bucknell,over,Purdue,36.48%
+Bucknell,over,Rhode Island,45.22%
+Bucknell,over,S Dakota St,65.61%
+Bucknell,over,Seton Hall,45.95%
+Bucknell,over,SMU,36.26%
+Bucknell,over,South Carolina,36.93%
+Bucknell,over,St Mary's CA,42.51%
+Bucknell,over,Troy,56.99%
+Bucknell,over,TX Southern,54.87%
+Bucknell,over,UC Davis,60.28%
+Bucknell,over,UCLA,32.67%
+Bucknell,over,UNC Wilmington,44.05%
+Bucknell,over,USC,41.23%
+Bucknell,over,VA Commonwealth,39.77%
+Bucknell,over,Vanderbilt,49.49%
+Bucknell,over,Vermont,45.98%
+Bucknell,over,Villanova,27.75%
+Bucknell,over,Virginia,33.50%
+Bucknell,over,Virginia Tech,43.70%
+Bucknell,over,Wake Forest,52.89%
+Bucknell,over,West Virginia,32.87%
+Bucknell,over,Wichita St,39.19%
+Bucknell,over,Winthrop,55.69%
+Bucknell,over,Wisconsin,34.41%
+Bucknell,over,Xavier,51.05%
+Butler,over,Cincinnati,47.04%
+Butler,over,Creighton,45.88%
+Butler,over,Dayton,52.59%
+Butler,over,Duke,44.94%
+Butler,over,ETSU,71.52%
+Butler,over,FL Gulf Coast,72.86%
+Butler,over,Florida,44.29%
+Butler,over,Florida St,44.00%
+Butler,over,Gonzaga,41.20%
+Butler,over,Iona,68.71%
+Butler,over,Iowa St,44.71%
+Butler,over,Jacksonville St,85.02%
+Butler,over,Kansas,43.09%
+Butler,over,Kansas St,63.13%
+Butler,over,Kent,69.25%
+Butler,over,Kentucky,42.60%
+Butler,over,Louisville,43.46%
+Butler,over,Marquette,62.86%
+Butler,over,Maryland,53.38%
+Butler,over,Miami FL,58.64%
+Butler,over,Michigan,47.45%
+Butler,over,Michigan St,71.79%
+Butler,over,Minnesota,46.91%
+Butler,over,Mt St Mary's,72.71%
+Butler,over,MTSU,69.17%
+Butler,over,N Kentucky,81.24%
+Butler,over,NC Central,78.61%
+Butler,over,Nevada,66.38%
+Butler,over,New Mexico St,76.41%
+Butler,over,New Orleans,83.07%
+Butler,over,North Carolina,40.69%
+Butler,over,North Dakota,77.23%
+Butler,over,Northwestern,55.58%
+Butler,over,Notre Dame,42.41%
+Butler,over,Oklahoma St,64.42%
+Butler,over,Oregon,39.87%
+Butler,over,Princeton,65.60%
+Butler,over,Providence,63.78%
+Butler,over,Purdue,47.69%
+Butler,over,Rhode Island,63.87%
+Butler,over,S Dakota St,78.30%
+Butler,over,Seton Hall,63.69%
+Butler,over,SMU,57.74%
+Butler,over,South Carolina,56.03%
+Butler,over,St Mary's CA,62.24%
+Butler,over,Troy,70.44%
+Butler,over,TX Southern,70.44%
+Butler,over,UC Davis,73.32%
+Butler,over,UCLA,42.09%
+Butler,over,UNC Wilmington,66.02%
+Butler,over,USC,62.25%
+Butler,over,VA Commonwealth,59.41%
+Butler,over,Vanderbilt,64.67%
+Butler,over,Vermont,67.11%
+Butler,over,Villanova,40.75%
+Butler,over,Virginia,43.97%
+Butler,over,Virginia Tech,62.18%
+Butler,over,Wake Forest,67.13%
+Butler,over,West Virginia,43.93%
+Butler,over,Wichita St,62.33%
+Butler,over,Winthrop,71.26%
+Butler,over,Wisconsin,53.36%
+Butler,over,Xavier,66.07%
+Cincinnati,over,Creighton,59.89%
+Cincinnati,over,Dayton,61.01%
+Cincinnati,over,Duke,50.32%
+Cincinnati,over,ETSU,77.33%
+Cincinnati,over,FL Gulf Coast,77.38%
+Cincinnati,over,Florida,53.02%
+Cincinnati,over,Florida St,50.98%
+Cincinnati,over,Gonzaga,41.75%
+Cincinnati,over,Iona,72.25%
+Cincinnati,over,Iowa St,53.45%
+Cincinnati,over,Jacksonville St,87.08%
+Cincinnati,over,Kansas,47.53%
+Cincinnati,over,Kansas St,67.35%
+Cincinnati,over,Kent,72.98%
+Cincinnati,over,Kentucky,45.99%
+Cincinnati,over,Louisville,51.54%
+Cincinnati,over,Marquette,66.41%
+Cincinnati,over,Maryland,63.75%
+Cincinnati,over,Miami FL,63.22%
+Cincinnati,over,Michigan,57.76%
+Cincinnati,over,Michigan St,75.08%
+Cincinnati,over,Minnesota,53.78%
+Cincinnati,over,Mt St Mary's,76.67%
+Cincinnati,over,MTSU,75.26%
+Cincinnati,over,N Kentucky,84.15%
+Cincinnati,over,NC Central,84.87%
+Cincinnati,over,Nevada,71.94%
+Cincinnati,over,New Mexico St,80.82%
+Cincinnati,over,New Orleans,85.62%
+Cincinnati,over,North Carolina,46.03%
+Cincinnati,over,North Dakota,82.82%
+Cincinnati,over,Northwestern,60.66%
+Cincinnati,over,Notre Dame,49.51%
+Cincinnati,over,Oklahoma St,66.50%
+Cincinnati,over,Oregon,43.04%
+Cincinnati,over,Princeton,69.43%
+Cincinnati,over,Providence,69.40%
+Cincinnati,over,Purdue,60.61%
+Cincinnati,over,Rhode Island,69.87%
+Cincinnati,over,S Dakota St,82.07%
+Cincinnati,over,Seton Hall,67.65%
+Cincinnati,over,SMU,63.70%
+Cincinnati,over,South Carolina,63.70%
+Cincinnati,over,St Mary's CA,69.15%
+Cincinnati,over,Troy,74.31%
+Cincinnati,over,TX Southern,73.39%
+Cincinnati,over,UC Davis,77.49%
+Cincinnati,over,UCLA,53.11%
+Cincinnati,over,UNC Wilmington,69.10%
+Cincinnati,over,USC,67.24%
+Cincinnati,over,VA Commonwealth,66.76%
+Cincinnati,over,Vanderbilt,68.50%
+Cincinnati,over,Vermont,72.04%
+Cincinnati,over,Villanova,41.24%
+Cincinnati,over,Virginia,54.25%
+Cincinnati,over,Virginia Tech,67.02%
+Cincinnati,over,Wake Forest,70.90%
+Cincinnati,over,West Virginia,52.79%
+Cincinnati,over,Wichita St,65.18%
+Cincinnati,over,Winthrop,76.40%
+Cincinnati,over,Wisconsin,59.58%
+Cincinnati,over,Xavier,69.75%
+Creighton,over,Dayton,53.96%
+Creighton,over,Duke,42.97%
+Creighton,over,ETSU,70.25%
+Creighton,over,FL Gulf Coast,70.27%
+Creighton,over,Florida,46.07%
+Creighton,over,Florida St,45.09%
+Creighton,over,Gonzaga,37.44%
+Creighton,over,Iona,65.39%
+Creighton,over,Iowa St,46.27%
+Creighton,over,Jacksonville St,82.41%
+Creighton,over,Kansas,41.94%
+Creighton,over,Kansas St,59.61%
+Creighton,over,Kent,65.21%
+Creighton,over,Kentucky,41.01%
+Creighton,over,Louisville,45.04%
+Creighton,over,Marquette,58.56%
+Creighton,over,Maryland,56.52%
+Creighton,over,Miami FL,54.56%
+Creighton,over,Michigan,49.11%
+Creighton,over,Michigan St,69.96%
+Creighton,over,Minnesota,45.64%
+Creighton,over,Mt St Mary's,70.04%
+Creighton,over,MTSU,69.99%
+Creighton,over,N Kentucky,75.84%
+Creighton,over,NC Central,78.99%
+Creighton,over,Nevada,65.35%
+Creighton,over,New Mexico St,73.36%
+Creighton,over,New Orleans,80.08%
+Creighton,over,North Carolina,40.94%
+Creighton,over,North Dakota,75.68%
+Creighton,over,Northwestern,51.75%
+Creighton,over,Notre Dame,42.97%
+Creighton,over,Oklahoma St,60.50%
+Creighton,over,Oregon,38.14%
+Creighton,over,Princeton,65.82%
+Creighton,over,Providence,62.57%
+Creighton,over,Purdue,53.48%
+Creighton,over,Rhode Island,63.86%
+Creighton,over,S Dakota St,73.51%
+Creighton,over,Seton Hall,59.91%
+Creighton,over,SMU,54.61%
+Creighton,over,South Carolina,56.90%
+Creighton,over,St Mary's CA,62.56%
+Creighton,over,Troy,66.67%
+Creighton,over,TX Southern,66.15%
+Creighton,over,UC Davis,69.29%
+Creighton,over,UCLA,42.19%
+Creighton,over,UNC Wilmington,65.11%
+Creighton,over,USC,59.29%
+Creighton,over,VA Commonwealth,60.43%
+Creighton,over,Vanderbilt,62.71%
+Creighton,over,Vermont,65.15%
+Creighton,over,Villanova,37.27%
+Creighton,over,Virginia,47.52%
+Creighton,over,Virginia Tech,59.00%
+Creighton,over,Wake Forest,64.07%
+Creighton,over,West Virginia,45.38%
+Creighton,over,Wichita St,59.97%
+Creighton,over,Winthrop,69.18%
+Creighton,over,Wisconsin,49.70%
+Creighton,over,Xavier,62.09%
+Dayton,over,Duke,41.97%
+Dayton,over,ETSU,69.90%
+Dayton,over,FL Gulf Coast,70.74%
+Dayton,over,Florida,42.57%
+Dayton,over,Florida St,41.98%
+Dayton,over,Gonzaga,36.32%
+Dayton,over,Iona,66.32%
+Dayton,over,Iowa St,43.03%
+Dayton,over,Jacksonville St,82.20%
+Dayton,over,Kansas,39.62%
+Dayton,over,Kansas St,60.76%
+Dayton,over,Kent,66.84%
+Dayton,over,Kentucky,39.21%
+Dayton,over,Louisville,41.38%
+Dayton,over,Marquette,60.15%
+Dayton,over,Maryland,50.59%
+Dayton,over,Miami FL,55.17%
+Dayton,over,Michigan,44.85%
+Dayton,over,Michigan St,69.46%
+Dayton,over,Minnesota,44.21%
+Dayton,over,Mt St Mary's,70.29%
+Dayton,over,MTSU,67.09%
+Dayton,over,N Kentucky,77.99%
+Dayton,over,NC Central,76.22%
+Dayton,over,Nevada,64.78%
+Dayton,over,New Mexico St,73.87%
+Dayton,over,New Orleans,79.77%
+Dayton,over,North Carolina,37.58%
+Dayton,over,North Dakota,74.66%
+Dayton,over,Northwestern,52.03%
+Dayton,over,Notre Dame,40.11%
+Dayton,over,Oklahoma St,61.51%
+Dayton,over,Oregon,36.51%
+Dayton,over,Princeton,63.43%
+Dayton,over,Providence,61.77%
+Dayton,over,Purdue,46.18%
+Dayton,over,Rhode Island,62.10%
+Dayton,over,S Dakota St,74.54%
+Dayton,over,Seton Hall,61.04%
+Dayton,over,SMU,52.88%
+Dayton,over,South Carolina,52.27%
+Dayton,over,St Mary's CA,58.63%
+Dayton,over,Troy,67.95%
+Dayton,over,TX Southern,67.95%
+Dayton,over,UC Davis,70.59%
+Dayton,over,UCLA,38.54%
+Dayton,over,UNC Wilmington,64.04%
+Dayton,over,USC,60.04%
+Dayton,over,VA Commonwealth,56.61%
+Dayton,over,Vanderbilt,63.21%
+Dayton,over,Vermont,65.53%
+Dayton,over,Villanova,36.28%
+Dayton,over,Virginia,41.82%
+Dayton,over,Virginia Tech,60.51%
+Dayton,over,Wake Forest,64.34%
+Dayton,over,West Virginia,41.31%
+Dayton,over,Wichita St,59.67%
+Dayton,over,Winthrop,69.63%
+Dayton,over,Wisconsin,49.90%
+Dayton,over,Xavier,63.45%
+Duke,over,ETSU,72.52%
+Duke,over,FL Gulf Coast,72.56%
+Duke,over,Florida,48.55%
+Duke,over,Florida St,48.83%
+Duke,over,Gonzaga,43.13%
+Duke,over,Iona,67.84%
+Duke,over,Iowa St,47.94%
+Duke,over,Jacksonville St,83.75%
+Duke,over,Kansas,49.18%
+Duke,over,Kansas St,61.83%
+Duke,over,Kent,68.36%
+Duke,over,Kentucky,45.67%
+Duke,over,Louisville,47.31%
+Duke,over,Marquette,61.77%
+Duke,over,Maryland,62.63%
+Duke,over,Miami FL,62.17%
+Duke,over,Michigan,50.69%
+Duke,over,Michigan St,74.95%
+Duke,over,Minnesota,51.43%
+Duke,over,Mt St Mary's,70.02%
+Duke,over,MTSU,71.74%
+Duke,over,N Kentucky,80.05%
+Duke,over,NC Central,80.88%
+Duke,over,Nevada,68.00%
+Duke,over,New Mexico St,76.15%
+Duke,over,New Orleans,81.74%
+Duke,over,North Carolina,44.90%
+Duke,over,North Dakota,77.57%
+Duke,over,Northwestern,56.89%
+Duke,over,Notre Dame,46.43%
+Duke,over,Oklahoma St,60.94%
+Duke,over,Oregon,42.68%
+Duke,over,Princeton,64.12%
+Duke,over,Providence,64.38%
+Duke,over,Purdue,60.34%
+Duke,over,Rhode Island,65.49%
+Duke,over,S Dakota St,76.27%
+Duke,over,Seton Hall,66.04%
+Duke,over,SMU,61.46%
+Duke,over,South Carolina,55.13%
+Duke,over,St Mary's CA,65.11%
+Duke,over,Troy,69.35%
+Duke,over,TX Southern,69.32%
+Duke,over,UC Davis,72.48%
+Duke,over,UCLA,53.62%
+Duke,over,UNC Wilmington,64.43%
+Duke,over,USC,62.75%
+Duke,over,VA Commonwealth,61.65%
+Duke,over,Vanderbilt,67.57%
+Duke,over,Vermont,68.22%
+Duke,over,Villanova,41.99%
+Duke,over,Virginia,47.09%
+Duke,over,Virginia Tech,65.18%
+Duke,over,Wake Forest,67.22%
+Duke,over,West Virginia,46.91%
+Duke,over,Wichita St,60.96%
+Duke,over,Winthrop,71.71%
+Duke,over,Wisconsin,54.68%
+Duke,over,Xavier,67.75%
+ETSU,over,FL Gulf Coast,56.54%
+ETSU,over,Florida,31.48%
+ETSU,over,Florida St,30.97%
+ETSU,over,Gonzaga,27.27%
+ETSU,over,Iona,51.81%
+ETSU,over,Iowa St,31.83%
+ETSU,over,Jacksonville St,69.31%
+ETSU,over,Kansas,30.00%
+ETSU,over,Kansas St,40.35%
+ETSU,over,Kent,53.98%
+ETSU,over,Kentucky,29.88%
+ETSU,over,Louisville,30.74%
+ETSU,over,Marquette,40.91%
+ETSU,over,Maryland,37.25%
+ETSU,over,Miami FL,39.86%
+ETSU,over,Michigan,33.16%
+ETSU,over,Michigan St,59.69%
+ETSU,over,Minnesota,32.57%
+ETSU,over,Mt St Mary's,56.99%
+ETSU,over,MTSU,49.86%
+ETSU,over,N Kentucky,64.12%
+ETSU,over,NC Central,62.21%
+ETSU,over,Nevada,43.99%
+ETSU,over,New Mexico St,59.55%
+ETSU,over,New Orleans,66.72%
+ETSU,over,North Carolina,29.20%
+ETSU,over,North Dakota,61.44%
+ETSU,over,Northwestern,35.02%
+ETSU,over,Notre Dame,30.39%
+ETSU,over,Oklahoma St,41.75%
+ETSU,over,Oregon,28.21%
+ETSU,over,Princeton,42.49%
+ETSU,over,Providence,42.89%
+ETSU,over,Purdue,35.49%
+ETSU,over,Rhode Island,43.30%
+ETSU,over,S Dakota St,64.50%
+ETSU,over,Seton Hall,44.96%
+ETSU,over,SMU,35.55%
+ETSU,over,South Carolina,35.99%
+ETSU,over,St Mary's CA,40.08%
+ETSU,over,Troy,55.74%
+ETSU,over,TX Southern,53.56%
+ETSU,over,UC Davis,59.16%
+ETSU,over,UCLA,31.16%
+ETSU,over,UNC Wilmington,42.28%
+ETSU,over,USC,39.83%
+ETSU,over,VA Commonwealth,38.25%
+ETSU,over,Vanderbilt,48.06%
+ETSU,over,Vermont,44.37%
+ETSU,over,Villanova,26.30%
+ETSU,over,Virginia,31.78%
+ETSU,over,Virginia Tech,43.03%
+ETSU,over,Wake Forest,51.25%
+ETSU,over,West Virginia,31.55%
+ETSU,over,Wichita St,37.79%
+ETSU,over,Winthrop,54.25%
+ETSU,over,Wisconsin,33.46%
+ETSU,over,Xavier,50.12%
+FL Gulf Coast,over,Florida,31.40%
+FL Gulf Coast,over,Florida St,31.18%
+FL Gulf Coast,over,Gonzaga,27.68%
+FL Gulf Coast,over,Iona,51.18%
+FL Gulf Coast,over,Iowa St,31.52%
+FL Gulf Coast,over,Jacksonville St,68.13%
+FL Gulf Coast,over,Kansas,30.28%
+FL Gulf Coast,over,Kansas St,40.12%
+FL Gulf Coast,over,Kent,54.32%
+FL Gulf Coast,over,Kentucky,30.12%
+FL Gulf Coast,over,Louisville,30.64%
+FL Gulf Coast,over,Marquette,41.27%
+FL Gulf Coast,over,Maryland,37.56%
+FL Gulf Coast,over,Miami FL,40.81%
+FL Gulf Coast,over,Michigan,32.83%
+FL Gulf Coast,over,Michigan St,60.01%
+FL Gulf Coast,over,Minnesota,33.05%
+FL Gulf Coast,over,Mt St Mary's,55.05%
+FL Gulf Coast,over,MTSU,48.40%
+FL Gulf Coast,over,N Kentucky,64.59%
+FL Gulf Coast,over,NC Central,60.95%
+FL Gulf Coast,over,Nevada,43.78%
+FL Gulf Coast,over,New Mexico St,58.58%
+FL Gulf Coast,over,New Orleans,65.55%
+FL Gulf Coast,over,North Carolina,28.81%
+FL Gulf Coast,over,North Dakota,60.11%
+FL Gulf Coast,over,Northwestern,35.74%
+FL Gulf Coast,over,Notre Dame,30.59%
+FL Gulf Coast,over,Oklahoma St,41.19%
+FL Gulf Coast,over,Oregon,28.31%
+FL Gulf Coast,over,Princeton,41.26%
+FL Gulf Coast,over,Providence,42.29%
+FL Gulf Coast,over,Purdue,35.28%
+FL Gulf Coast,over,Rhode Island,41.93%
+FL Gulf Coast,over,S Dakota St,64.45%
+FL Gulf Coast,over,Seton Hall,46.59%
+FL Gulf Coast,over,SMU,36.35%
+FL Gulf Coast,over,South Carolina,35.33%
+FL Gulf Coast,over,St Mary's CA,39.09%
+FL Gulf Coast,over,Troy,55.73%
+FL Gulf Coast,over,TX Southern,54.26%
+FL Gulf Coast,over,UC Davis,59.45%
+FL Gulf Coast,over,UCLA,31.07%
+FL Gulf Coast,over,UNC Wilmington,41.35%
+FL Gulf Coast,over,USC,39.90%
+FL Gulf Coast,over,VA Commonwealth,36.89%
+FL Gulf Coast,over,Vanderbilt,49.36%
+FL Gulf Coast,over,Vermont,44.67%
+FL Gulf Coast,over,Villanova,26.86%
+FL Gulf Coast,over,Virginia,30.81%
+FL Gulf Coast,over,Virginia Tech,44.39%
+FL Gulf Coast,over,Wake Forest,51.60%
+FL Gulf Coast,over,West Virginia,30.90%
+FL Gulf Coast,over,Wichita St,37.75%
+FL Gulf Coast,over,Winthrop,53.43%
+FL Gulf Coast,over,Wisconsin,34.09%
+FL Gulf Coast,over,Xavier,52.01%
+Florida,over,Florida St,43.00%
+Florida,over,Gonzaga,40.73%
+Florida,over,Iona,67.98%
+Florida,over,Iowa St,43.52%
+Florida,over,Jacksonville St,84.18%
+Florida,over,Kansas,42.86%
+Florida,over,Kansas St,60.63%
+Florida,over,Kent,68.49%
+Florida,over,Kentucky,42.30%
+Florida,over,Louisville,42.49%
+Florida,over,Marquette,60.11%
+Florida,over,Maryland,53.88%
+Florida,over,Miami FL,59.86%
+Florida,over,Michigan,45.51%
+Florida,over,Michigan St,71.99%
+Florida,over,Minnesota,46.39%
+Florida,over,Mt St Mary's,71.41%
+Florida,over,MTSU,68.59%
+Florida,over,N Kentucky,80.32%
+Florida,over,NC Central,77.92%
+Florida,over,Nevada,65.80%
+Florida,over,New Mexico St,75.77%
+Florida,over,New Orleans,82.15%
+Florida,over,North Carolina,40.06%
+Florida,over,North Dakota,76.13%
+Florida,over,Northwestern,51.82%
+Florida,over,Notre Dame,41.56%
+Florida,over,Oklahoma St,61.50%
+Florida,over,Oregon,39.50%
+Florida,over,Princeton,63.44%
+Florida,over,Providence,62.48%
+Florida,over,Purdue,49.70%
+Florida,over,Rhode Island,63.28%
+Florida,over,S Dakota St,76.66%
+Florida,over,Seton Hall,62.92%
+Florida,over,SMU,57.21%
+Florida,over,South Carolina,51.80%
+Florida,over,St Mary's CA,61.85%
+Florida,over,Troy,69.44%
+Florida,over,TX Southern,69.51%
+Florida,over,UC Davis,72.55%
+Florida,over,UCLA,43.03%
+Florida,over,UNC Wilmington,64.04%
+Florida,over,USC,60.94%
+Florida,over,VA Commonwealth,57.18%
+Florida,over,Vanderbilt,64.91%
+Florida,over,Vermont,66.56%
+Florida,over,Villanova,39.89%
+Florida,over,Virginia,42.86%
+Florida,over,Virginia Tech,61.71%
+Florida,over,Wake Forest,65.67%
+Florida,over,West Virginia,42.90%
+Florida,over,Wichita St,60.04%
+Florida,over,Winthrop,70.69%
+Florida,over,Wisconsin,50.40%
+Florida,over,Xavier,65.29%
+Florida St,over,Gonzaga,41.90%
+Florida St,over,Iona,68.86%
+Florida St,over,Iowa St,45.01%
+Florida St,over,Jacksonville St,85.04%
+Florida St,over,Kansas,44.46%
+Florida St,over,Kansas St,62.40%
+Florida St,over,Kent,69.41%
+Florida St,over,Kentucky,43.55%
+Florida St,over,Louisville,44.07%
+Florida St,over,Marquette,61.31%
+Florida St,over,Maryland,56.79%
+Florida St,over,Miami FL,60.75%
+Florida St,over,Michigan,47.46%
+Florida St,over,Michigan St,72.70%
+Florida St,over,Minnesota,48.66%
+Florida St,over,Mt St Mary's,72.15%
+Florida St,over,MTSU,70.14%
+Florida St,over,N Kentucky,81.34%
+Florida St,over,NC Central,80.13%
+Florida St,over,Nevada,67.41%
+Florida St,over,New Mexico St,77.42%
+Florida St,over,New Orleans,83.12%
+Florida St,over,North Carolina,41.49%
+Florida St,over,North Dakota,78.47%
+Florida St,over,Northwestern,54.11%
+Florida St,over,Notre Dame,42.83%
+Florida St,over,Oklahoma St,62.05%
+Florida St,over,Oregon,40.71%
+Florida St,over,Princeton,64.83%
+Florida St,over,Providence,64.20%
+Florida St,over,Purdue,52.86%
+Florida St,over,Rhode Island,65.10%
+Florida St,over,S Dakota St,77.79%
+Florida St,over,Seton Hall,63.99%
+Florida St,over,SMU,59.38%
+Florida St,over,South Carolina,54.03%
+Florida St,over,St Mary's CA,63.40%
+Florida St,over,Troy,70.36%
+Florida St,over,TX Southern,70.35%
+Florida St,over,UC Davis,73.61%
+Florida St,over,UCLA,45.34%
+Florida St,over,UNC Wilmington,65.30%
+Florida St,over,USC,62.86%
+Florida St,over,VA Commonwealth,59.61%
+Florida St,over,Vanderbilt,66.08%
+Florida St,over,Vermont,68.15%
+Florida St,over,Villanova,41.10%
+Florida St,over,Virginia,44.48%
+Florida St,over,Virginia Tech,63.35%
+Florida St,over,Wake Forest,66.42%
+Florida St,over,West Virginia,44.45%
+Florida St,over,Wichita St,61.62%
+Florida St,over,Winthrop,72.58%
+Florida St,over,Wisconsin,52.74%
+Florida St,over,Xavier,66.24%
+Gonzaga,over,Iona,73.12%
+Gonzaga,over,Iowa St,53.33%
+Gonzaga,over,Jacksonville St,87.46%
+Gonzaga,over,Kansas,54.25%
+Gonzaga,over,Kansas St,67.40%
+Gonzaga,over,Kent,73.85%
+Gonzaga,over,Kentucky,49.20%
+Gonzaga,over,Louisville,52.16%
+Gonzaga,over,Marquette,66.51%
+Gonzaga,over,Maryland,65.23%
+Gonzaga,over,Miami FL,64.64%
+Gonzaga,over,Michigan,55.72%
+Gonzaga,over,Michigan St,78.29%
+Gonzaga,over,Minnesota,55.43%
+Gonzaga,over,Mt St Mary's,77.17%
+Gonzaga,over,MTSU,77.74%
+Gonzaga,over,N Kentucky,84.80%
+Gonzaga,over,NC Central,85.57%
+Gonzaga,over,Nevada,72.81%
+Gonzaga,over,New Mexico St,81.81%
+Gonzaga,over,New Orleans,86.18%
+Gonzaga,over,North Carolina,53.51%
+Gonzaga,over,North Dakota,83.15%
+Gonzaga,over,Northwestern,60.80%
+Gonzaga,over,Notre Dame,50.87%
+Gonzaga,over,Oklahoma St,66.62%
+Gonzaga,over,Oregon,47.14%
+Gonzaga,over,Princeton,69.37%
+Gonzaga,over,Providence,69.39%
+Gonzaga,over,Purdue,64.08%
+Gonzaga,over,Rhode Island,70.52%
+Gonzaga,over,S Dakota St,82.15%
+Gonzaga,over,Seton Hall,68.37%
+Gonzaga,over,SMU,64.80%
+Gonzaga,over,South Carolina,59.86%
+Gonzaga,over,St Mary's CA,72.11%
+Gonzaga,over,Troy,75.00%
+Gonzaga,over,TX Southern,74.57%
+Gonzaga,over,UC Davis,78.55%
+Gonzaga,over,UCLA,60.29%
+Gonzaga,over,UNC Wilmington,69.36%
+Gonzaga,over,USC,68.04%
+Gonzaga,over,VA Commonwealth,67.59%
+Gonzaga,over,Vanderbilt,70.73%
+Gonzaga,over,Vermont,73.05%
+Gonzaga,over,Villanova,44.46%
+Gonzaga,over,Virginia,55.21%
+Gonzaga,over,Virginia Tech,67.77%
+Gonzaga,over,Wake Forest,71.13%
+Gonzaga,over,West Virginia,53.20%
+Gonzaga,over,Wichita St,66.36%
+Gonzaga,over,Winthrop,77.75%
+Gonzaga,over,Wisconsin,59.65%
+Gonzaga,over,Xavier,70.65%
+Iona,over,Iowa St,34.94%
+Iona,over,Jacksonville St,71.00%
+Iona,over,Kansas,33.16%
+Iona,over,Kansas St,45.01%
+Iona,over,Kent,57.64%
+Iona,over,Kentucky,33.09%
+Iona,over,Louisville,34.47%
+Iona,over,Marquette,47.23%
+Iona,over,Maryland,41.65%
+Iona,over,Miami FL,45.60%
+Iona,over,Michigan,36.69%
+Iona,over,Michigan St,63.52%
+Iona,over,Minnesota,36.42%
+Iona,over,Mt St Mary's,58.68%
+Iona,over,MTSU,53.14%
+Iona,over,N Kentucky,66.48%
+Iona,over,NC Central,63.79%
+Iona,over,Nevada,47.98%
+Iona,over,New Mexico St,61.45%
+Iona,over,New Orleans,68.26%
+Iona,over,North Carolina,32.56%
+Iona,over,North Dakota,63.20%
+Iona,over,Northwestern,39.51%
+Iona,over,Notre Dame,33.77%
+Iona,over,Oklahoma St,47.70%
+Iona,over,Oregon,31.07%
+Iona,over,Princeton,46.12%
+Iona,over,Providence,48.80%
+Iona,over,Purdue,39.67%
+Iona,over,Rhode Island,46.42%
+Iona,over,S Dakota St,66.50%
+Iona,over,Seton Hall,53.12%
+Iona,over,SMU,39.22%
+Iona,over,South Carolina,39.08%
+Iona,over,St Mary's CA,43.77%
+Iona,over,Troy,59.15%
+Iona,over,TX Southern,57.13%
+Iona,over,UC Davis,61.93%
+Iona,over,UCLA,34.33%
+Iona,over,UNC Wilmington,45.48%
+Iona,over,USC,42.85%
+Iona,over,VA Commonwealth,40.06%
+Iona,over,Vanderbilt,55.69%
+Iona,over,Vermont,48.55%
+Iona,over,Villanova,30.50%
+Iona,over,Virginia,34.60%
+Iona,over,Virginia Tech,50.24%
+Iona,over,Wake Forest,57.40%
+Iona,over,West Virginia,34.38%
+Iona,over,Wichita St,40.93%
+Iona,over,Winthrop,57.20%
+Iona,over,Wisconsin,37.33%
+Iona,over,Xavier,57.09%
+Iowa St,over,Jacksonville St,84.36%
+Iowa St,over,Kansas,47.75%
+Iowa St,over,Kansas St,61.76%
+Iowa St,over,Kent,68.66%
+Iowa St,over,Kentucky,46.39%
+Iowa St,over,Louisville,47.58%
+Iowa St,over,Marquette,60.89%
+Iowa St,over,Maryland,59.13%
+Iowa St,over,Miami FL,60.58%
+Iowa St,over,Michigan,51.53%
+Iowa St,over,Michigan St,72.63%
+Iowa St,over,Minnesota,52.69%
+Iowa St,over,Mt St Mary's,71.49%
+Iowa St,over,MTSU,71.17%
+Iowa St,over,N Kentucky,80.57%
+Iowa St,over,NC Central,81.26%
+Iowa St,over,Nevada,68.19%
+Iowa St,over,New Mexico St,76.42%
+Iowa St,over,New Orleans,82.34%
+Iowa St,over,North Carolina,43.78%
+Iowa St,over,North Dakota,77.93%
+Iowa St,over,Northwestern,56.56%
+Iowa St,over,Notre Dame,45.85%
+Iowa St,over,Oklahoma St,62.09%
+Iowa St,over,Oregon,42.17%
+Iowa St,over,Princeton,66.74%
+Iowa St,over,Providence,64.14%
+Iowa St,over,Purdue,55.71%
+Iowa St,over,Rhode Island,65.73%
+Iowa St,over,S Dakota St,76.79%
+Iowa St,over,Seton Hall,63.54%
+Iowa St,over,SMU,60.34%
+Iowa St,over,South Carolina,57.41%
+Iowa St,over,St Mary's CA,64.52%
+Iowa St,over,Troy,69.63%
+Iowa St,over,TX Southern,69.65%
+Iowa St,over,UC Davis,72.77%
+Iowa St,over,UCLA,47.87%
+Iowa St,over,UNC Wilmington,67.01%
+Iowa St,over,USC,62.92%
+Iowa St,over,VA Commonwealth,60.94%
+Iowa St,over,Vanderbilt,65.94%
+Iowa St,over,Vermont,68.40%
+Iowa St,over,Villanova,42.65%
+Iowa St,over,Virginia,48.02%
+Iowa St,over,Virginia Tech,62.57%
+Iowa St,over,Wake Forest,65.84%
+Iowa St,over,West Virginia,47.96%
+Iowa St,over,Wichita St,63.23%
+Iowa St,over,Winthrop,71.90%
+Iowa St,over,Wisconsin,55.84%
+Iowa St,over,Xavier,65.56%
+Jacksonville St,over,Kansas,17.24%
+Jacksonville St,over,Kansas St,31.96%
+Jacksonville St,over,Kent,36.55%
+Jacksonville St,over,Kentucky,18.25%
+Jacksonville St,over,Louisville,19.71%
+Jacksonville St,over,Marquette,32.50%
+Jacksonville St,over,Maryland,28.36%
+Jacksonville St,over,Miami FL,29.48%
+Jacksonville St,over,Michigan,25.52%
+Jacksonville St,over,Michigan St,42.09%
+Jacksonville St,over,Minnesota,23.42%
+Jacksonville St,over,Mt St Mary's,38.21%
+Jacksonville St,over,MTSU,35.58%
+Jacksonville St,over,N Kentucky,47.00%
+Jacksonville St,over,NC Central,44.93%
+Jacksonville St,over,Nevada,32.70%
+Jacksonville St,over,New Mexico St,41.07%
+Jacksonville St,over,New Orleans,52.15%
+Jacksonville St,over,North Carolina,18.51%
+Jacksonville St,over,North Dakota,44.33%
+Jacksonville St,over,Northwestern,27.85%
+Jacksonville St,over,Notre Dame,20.74%
+Jacksonville St,over,Oklahoma St,33.53%
+Jacksonville St,over,Oregon,16.71%
+Jacksonville St,over,Princeton,33.54%
+Jacksonville St,over,Providence,32.31%
+Jacksonville St,over,Purdue,26.18%
+Jacksonville St,over,Rhode Island,32.32%
+Jacksonville St,over,S Dakota St,48.61%
+Jacksonville St,over,Seton Hall,33.24%
+Jacksonville St,over,SMU,26.84%
+Jacksonville St,over,South Carolina,29.42%
+Jacksonville St,over,St Mary's CA,31.07%
+Jacksonville St,over,Troy,37.73%
+Jacksonville St,over,TX Southern,37.49%
+Jacksonville St,over,UC Davis,40.53%
+Jacksonville St,over,UCLA,20.77%
+Jacksonville St,over,UNC Wilmington,33.54%
+Jacksonville St,over,USC,30.50%
+Jacksonville St,over,VA Commonwealth,30.25%
+Jacksonville St,over,Vanderbilt,34.67%
+Jacksonville St,over,Vermont,33.27%
+Jacksonville St,over,Villanova,13.74%
+Jacksonville St,over,Virginia,24.34%
+Jacksonville St,over,Virginia Tech,32.18%
+Jacksonville St,over,Wake Forest,36.38%
+Jacksonville St,over,West Virginia,23.82%
+Jacksonville St,over,Wichita St,30.43%
+Jacksonville St,over,Winthrop,36.86%
+Jacksonville St,over,Wisconsin,25.68%
+Jacksonville St,over,Xavier,35.75%
+Kansas,over,Kansas St,63.57%
+Kansas,over,Kent,70.41%
+Kansas,over,Kentucky,46.57%
+Kansas,over,Louisville,48.87%
+Kansas,over,Marquette,62.62%
+Kansas,over,Maryland,63.43%
+Kansas,over,Miami FL,62.49%
+Kansas,over,Michigan,52.81%
+Kansas,over,Michigan St,76.12%
+Kansas,over,Minnesota,51.30%
+Kansas,over,Mt St Mary's,73.25%
+Kansas,over,MTSU,74.42%
+Kansas,over,N Kentucky,82.41%
+Kansas,over,NC Central,83.33%
+Kansas,over,Nevada,70.02%
+Kansas,over,New Mexico St,78.98%
+Kansas,over,New Orleans,84.18%
+Kansas,over,North Carolina,46.35%
+Kansas,over,North Dakota,80.34%
+Kansas,over,Northwestern,57.33%
+Kansas,over,Notre Dame,47.49%
+Kansas,over,Oklahoma St,62.59%
+Kansas,over,Oregon,43.68%
+Kansas,over,Princeton,66.38%
+Kansas,over,Providence,65.86%
+Kansas,over,Purdue,61.49%
+Kansas,over,Rhode Island,67.66%
+Kansas,over,S Dakota St,79.21%
+Kansas,over,Seton Hall,66.34%
+Kansas,over,SMU,61.84%
+Kansas,over,South Carolina,56.86%
+Kansas,over,St Mary's CA,67.95%
+Kansas,over,Troy,71.74%
+Kansas,over,TX Southern,71.35%
+Kansas,over,UC Davis,75.09%
+Kansas,over,UCLA,55.45%
+Kansas,over,UNC Wilmington,66.57%
+Kansas,over,USC,65.01%
+Kansas,over,VA Commonwealth,64.59%
+Kansas,over,Vanderbilt,68.35%
+Kansas,over,Vermont,70.38%
+Kansas,over,Villanova,42.81%
+Kansas,over,Virginia,49.50%
+Kansas,over,Virginia Tech,65.47%
+Kansas,over,Wake Forest,67.79%
+Kansas,over,West Virginia,49.23%
+Kansas,over,Wichita St,63.57%
+Kansas,over,Winthrop,74.20%
+Kansas,over,Wisconsin,54.86%
+Kansas,over,Xavier,68.11%
+Kansas St,over,Kent,60.28%
+Kansas St,over,Kentucky,36.53%
+Kansas St,over,Louisville,38.05%
+Kansas St,over,Marquette,53.72%
+Kansas St,over,Maryland,48.39%
+Kansas St,over,Miami FL,50.75%
+Kansas St,over,Michigan,41.15%
+Kansas St,over,Michigan St,65.96%
+Kansas St,over,Minnesota,42.39%
+Kansas St,over,Mt St Mary's,62.91%
+Kansas St,over,MTSU,60.51%
+Kansas St,over,N Kentucky,69.61%
+Kansas St,over,NC Central,70.87%
+Kansas St,over,Nevada,57.72%
+Kansas St,over,New Mexico St,67.59%
+Kansas St,over,New Orleans,72.23%
+Kansas St,over,North Carolina,35.95%
+Kansas St,over,North Dakota,68.96%
+Kansas St,over,Northwestern,47.43%
+Kansas St,over,Notre Dame,37.27%
+Kansas St,over,Oklahoma St,54.58%
+Kansas St,over,Oregon,34.06%
+Kansas St,over,Princeton,58.15%
+Kansas St,over,Providence,55.90%
+Kansas St,over,Purdue,43.55%
+Kansas St,over,Rhode Island,57.27%
+Kansas St,over,S Dakota St,67.15%
+Kansas St,over,Seton Hall,56.86%
+Kansas St,over,SMU,44.47%
+Kansas St,over,South Carolina,46.49%
+Kansas St,over,St Mary's CA,49.89%
+Kansas St,over,Troy,61.43%
+Kansas St,over,TX Southern,61.10%
+Kansas St,over,UC Davis,64.16%
+Kansas St,over,UCLA,36.75%
+Kansas St,over,UNC Wilmington,57.44%
+Kansas St,over,USC,53.36%
+Kansas St,over,VA Commonwealth,47.96%
+Kansas St,over,Vanderbilt,58.97%
+Kansas St,over,Vermont,57.63%
+Kansas St,over,Villanova,33.41%
+Kansas St,over,Virginia,38.65%
+Kansas St,over,Virginia Tech,55.78%
+Kansas St,over,Wake Forest,59.79%
+Kansas St,over,West Virginia,38.16%
+Kansas St,over,Wichita St,50.27%
+Kansas St,over,Winthrop,63.90%
+Kansas St,over,Wisconsin,43.46%
+Kansas St,over,Xavier,59.17%
+Kent,over,Kentucky,32.38%
+Kent,over,Louisville,33.57%
+Kent,over,Marquette,46.89%
+Kent,over,Maryland,41.56%
+Kent,over,Miami FL,45.08%
+Kent,over,Michigan,35.98%
+Kent,over,Michigan St,63.59%
+Kent,over,Minnesota,35.70%
+Kent,over,Mt St Mary's,56.65%
+Kent,over,MTSU,50.82%
+Kent,over,N Kentucky,64.53%
+Kent,over,NC Central,62.07%
+Kent,over,Nevada,45.53%
+Kent,over,New Mexico St,59.87%
+Kent,over,New Orleans,66.63%
+Kent,over,North Carolina,31.91%
+Kent,over,North Dakota,61.74%
+Kent,over,Northwestern,38.64%
+Kent,over,Notre Dame,32.91%
+Kent,over,Oklahoma St,47.04%
+Kent,over,Oregon,30.24%
+Kent,over,Princeton,43.11%
+Kent,over,Providence,49.00%
+Kent,over,Purdue,39.56%
+Kent,over,Rhode Island,44.27%
+Kent,over,S Dakota St,65.40%
+Kent,over,Seton Hall,52.64%
+Kent,over,SMU,38.97%
+Kent,over,South Carolina,37.92%
+Kent,over,St Mary's CA,43.54%
+Kent,over,Troy,57.16%
+Kent,over,TX Southern,54.57%
+Kent,over,UC Davis,60.06%
+Kent,over,UCLA,33.99%
+Kent,over,UNC Wilmington,42.83%
+Kent,over,USC,41.85%
+Kent,over,VA Commonwealth,38.74%
+Kent,over,Vanderbilt,55.23%
+Kent,over,Vermont,45.73%
+Kent,over,Villanova,29.35%
+Kent,over,Virginia,33.86%
+Kent,over,Virginia Tech,49.81%
+Kent,over,Wake Forest,57.60%
+Kent,over,West Virginia,33.72%
+Kent,over,Wichita St,38.78%
+Kent,over,Winthrop,55.29%
+Kent,over,Wisconsin,36.62%
+Kent,over,Xavier,56.63%
+Kentucky,over,Louisville,45.30%
+Kentucky,over,Marquette,62.53%
+Kentucky,over,Maryland,61.35%
+Kentucky,over,Miami FL,62.94%
+Kentucky,over,Michigan,49.03%
+Kentucky,over,Michigan St,75.15%
+Kentucky,over,Minnesota,50.82%
+Kentucky,over,Mt St Mary's,73.05%
+Kentucky,over,MTSU,72.12%
+Kentucky,over,N Kentucky,82.10%
+Kentucky,over,NC Central,82.30%
+Kentucky,over,Nevada,69.26%
+Kentucky,over,New Mexico St,78.58%
+Kentucky,over,New Orleans,83.73%
+Kentucky,over,North Carolina,43.22%
+Kentucky,over,North Dakota,79.90%
+Kentucky,over,Northwestern,56.77%
+Kentucky,over,Notre Dame,44.22%
+Kentucky,over,Oklahoma St,62.66%
+Kentucky,over,Oregon,41.74%
+Kentucky,over,Princeton,64.88%
+Kentucky,over,Providence,65.80%
+Kentucky,over,Purdue,58.71%
+Kentucky,over,Rhode Island,67.30%
+Kentucky,over,S Dakota St,78.83%
+Kentucky,over,Seton Hall,66.24%
+Kentucky,over,SMU,61.53%
+Kentucky,over,South Carolina,53.71%
+Kentucky,over,St Mary's CA,65.71%
+Kentucky,over,Troy,71.54%
+Kentucky,over,TX Southern,71.31%
+Kentucky,over,UC Davis,74.80%
+Kentucky,over,UCLA,51.71%
+Kentucky,over,UNC Wilmington,65.60%
+Kentucky,over,USC,64.98%
+Kentucky,over,VA Commonwealth,62.38%
+Kentucky,over,Vanderbilt,68.07%
+Kentucky,over,Vermont,69.93%
+Kentucky,over,Villanova,41.75%
+Kentucky,over,Virginia,45.67%
+Kentucky,over,Virginia Tech,65.37%
+Kentucky,over,Wake Forest,67.31%
+Kentucky,over,West Virginia,45.55%
+Kentucky,over,Wichita St,62.30%
+Kentucky,over,Winthrop,73.97%
+Kentucky,over,Wisconsin,54.21%
+Kentucky,over,Xavier,67.77%
+Louisville,over,Marquette,60.53%
+Louisville,over,Maryland,53.88%
+Louisville,over,Miami FL,59.76%
+Louisville,over,Michigan,45.59%
+Louisville,over,Michigan St,72.54%
+Louisville,over,Minnesota,46.21%
+Louisville,over,Mt St Mary's,72.40%
+Louisville,over,MTSU,68.92%
+Louisville,over,N Kentucky,81.35%
+Louisville,over,NC Central,78.48%
+Louisville,over,Nevada,66.14%
+Louisville,over,New Mexico St,76.36%
+Louisville,over,New Orleans,83.17%
+Louisville,over,North Carolina,40.08%
+Louisville,over,North Dakota,76.71%
+Louisville,over,Northwestern,52.16%
+Louisville,over,Notre Dame,41.67%
+Louisville,over,Oklahoma St,62.00%
+Louisville,over,Oregon,39.62%
+Louisville,over,Princeton,63.74%
+Louisville,over,Providence,63.05%
+Louisville,over,Purdue,49.64%
+Louisville,over,Rhode Island,63.65%
+Louisville,over,S Dakota St,78.06%
+Louisville,over,Seton Hall,63.46%
+Louisville,over,SMU,57.18%
+Louisville,over,South Carolina,52.41%
+Louisville,over,St Mary's CA,62.08%
+Louisville,over,Troy,70.24%
+Louisville,over,TX Southern,70.25%
+Louisville,over,UC Davis,73.52%
+Louisville,over,UCLA,43.00%
+Louisville,over,UNC Wilmington,64.34%
+Louisville,over,USC,61.31%
+Louisville,over,VA Commonwealth,57.54%
+Louisville,over,Vanderbilt,65.22%
+Louisville,over,Vermont,66.92%
+Louisville,over,Villanova,39.62%
+Louisville,over,Virginia,43.04%
+Louisville,over,Virginia Tech,61.98%
+Louisville,over,Wake Forest,66.63%
+Louisville,over,West Virginia,43.07%
+Louisville,over,Wichita St,60.34%
+Louisville,over,Winthrop,71.07%
+Louisville,over,Wisconsin,50.63%
+Louisville,over,Xavier,66.05%
+Marquette,over,Maryland,49.19%
+Marquette,over,Miami FL,53.36%
+Marquette,over,Michigan,41.55%
+Marquette,over,Michigan St,66.85%
+Marquette,over,Minnesota,43.28%
+Marquette,over,Mt St Mary's,62.21%
+Marquette,over,MTSU,60.29%
+Marquette,over,N Kentucky,70.23%
+Marquette,over,NC Central,70.50%
+Marquette,over,Nevada,58.05%
+Marquette,over,New Mexico St,67.54%
+Marquette,over,New Orleans,71.70%
+Marquette,over,North Carolina,35.91%
+Marquette,over,North Dakota,68.36%
+Marquette,over,Northwestern,49.04%
+Marquette,over,Notre Dame,37.84%
+Marquette,over,Oklahoma St,54.80%
+Marquette,over,Oregon,34.44%
+Marquette,over,Princeton,56.64%
+Marquette,over,Providence,56.91%
+Marquette,over,Purdue,43.86%
+Marquette,over,Rhode Island,56.28%
+Marquette,over,S Dakota St,67.08%
+Marquette,over,Seton Hall,58.86%
+Marquette,over,SMU,46.75%
+Marquette,over,South Carolina,45.81%
+Marquette,over,St Mary's CA,49.92%
+Marquette,over,Troy,61.65%
+Marquette,over,TX Southern,61.69%
+Marquette,over,UC Davis,64.46%
+Marquette,over,UCLA,37.25%
+Marquette,over,UNC Wilmington,56.49%
+Marquette,over,USC,53.01%
+Marquette,over,VA Commonwealth,45.63%
+Marquette,over,Vanderbilt,60.63%
+Marquette,over,Vermont,58.99%
+Marquette,over,Villanova,33.97%
+Marquette,over,Virginia,38.21%
+Marquette,over,Virginia Tech,57.90%
+Marquette,over,Wake Forest,60.44%
+Marquette,over,West Virginia,38.00%
+Marquette,over,Wichita St,49.32%
+Marquette,over,Winthrop,63.74%
+Marquette,over,Wisconsin,44.79%
+Marquette,over,Xavier,60.95%
+Maryland,over,Miami FL,51.56%
+Maryland,over,Michigan,44.48%
+Maryland,over,Michigan St,67.77%
+Maryland,over,Minnesota,43.08%
+Maryland,over,Mt St Mary's,67.77%
+Maryland,over,MTSU,66.64%
+Maryland,over,N Kentucky,73.22%
+Maryland,over,NC Central,77.61%
+Maryland,over,Nevada,63.29%
+Maryland,over,New Mexico St,71.20%
+Maryland,over,New Orleans,78.32%
+Maryland,over,North Carolina,37.57%
+Maryland,over,North Dakota,74.01%
+Maryland,over,Northwestern,47.30%
+Maryland,over,Notre Dame,39.05%
+Maryland,over,Oklahoma St,57.21%
+Maryland,over,Oregon,35.65%
+Maryland,over,Princeton,63.79%
+Maryland,over,Providence,59.84%
+Maryland,over,Purdue,48.31%
+Maryland,over,Rhode Island,61.66%
+Maryland,over,S Dakota St,70.59%
+Maryland,over,Seton Hall,57.61%
+Maryland,over,SMU,49.13%
+Maryland,over,South Carolina,51.43%
+Maryland,over,St Mary's CA,58.27%
+Maryland,over,Troy,64.51%
+Maryland,over,TX Southern,64.23%
+Maryland,over,UC Davis,67.30%
+Maryland,over,UCLA,39.01%
+Maryland,over,UNC Wilmington,62.68%
+Maryland,over,USC,56.58%
+Maryland,over,VA Commonwealth,56.37%
+Maryland,over,Vanderbilt,60.75%
+Maryland,over,Vermont,63.19%
+Maryland,over,Villanova,34.73%
+Maryland,over,Virginia,42.05%
+Maryland,over,Virginia Tech,56.71%
+Maryland,over,Wake Forest,61.34%
+Maryland,over,West Virginia,40.97%
+Maryland,over,Wichita St,55.97%
+Maryland,over,Winthrop,67.33%
+Maryland,over,Wisconsin,45.94%
+Maryland,over,Xavier,60.04%
+Miami FL,over,Michigan,45.78%
+Miami FL,over,Michigan St,69.98%
+Miami FL,over,Minnesota,44.43%
+Miami FL,over,Mt St Mary's,63.36%
+Miami FL,over,MTSU,64.10%
+Miami FL,over,N Kentucky,70.40%
+Miami FL,over,NC Central,72.88%
+Miami FL,over,Nevada,60.46%
+Miami FL,over,New Mexico St,68.44%
+Miami FL,over,New Orleans,73.69%
+Miami FL,over,North Carolina,40.04%
+Miami FL,over,North Dakota,69.84%
+Miami FL,over,Northwestern,48.84%
+Miami FL,over,Notre Dame,41.22%
+Miami FL,over,Oklahoma St,56.37%
+Miami FL,over,Oregon,37.20%
+Miami FL,over,Princeton,57.97%
+Miami FL,over,Providence,60.21%
+Miami FL,over,Purdue,55.26%
+Miami FL,over,Rhode Island,58.82%
+Miami FL,over,S Dakota St,69.49%
+Miami FL,over,Seton Hall,60.56%
+Miami FL,over,SMU,52.54%
+Miami FL,over,South Carolina,49.71%
+Miami FL,over,St Mary's CA,60.45%
+Miami FL,over,Troy,62.25%
+Miami FL,over,TX Southern,61.29%
+Miami FL,over,UC Davis,64.54%
+Miami FL,over,UCLA,43.42%
+Miami FL,over,UNC Wilmington,57.66%
+Miami FL,over,USC,54.77%
+Miami FL,over,VA Commonwealth,53.27%
+Miami FL,over,Vanderbilt,62.20%
+Miami FL,over,Vermont,60.26%
+Miami FL,over,Villanova,35.60%
+Miami FL,over,Virginia,43.72%
+Miami FL,over,Virginia Tech,59.64%
+Miami FL,over,Wake Forest,62.89%
+Miami FL,over,West Virginia,42.21%
+Miami FL,over,Wichita St,49.91%
+Miami FL,over,Winthrop,64.49%
+Miami FL,over,Wisconsin,46.51%
+Miami FL,over,Xavier,62.24%
+Michigan,over,Michigan St,71.67%
+Michigan,over,Minnesota,52.50%
+Michigan,over,Mt St Mary's,71.04%
+Michigan,over,MTSU,71.21%
+Michigan,over,N Kentucky,79.53%
+Michigan,over,NC Central,80.15%
+Michigan,over,Nevada,67.36%
+Michigan,over,New Mexico St,75.20%
+Michigan,over,New Orleans,81.20%
+Michigan,over,North Carolina,45.33%
+Michigan,over,North Dakota,76.78%
+Michigan,over,Northwestern,56.46%
+Michigan,over,Notre Dame,47.71%
+Michigan,over,Oklahoma St,61.90%
+Michigan,over,Oregon,42.61%
+Michigan,over,Princeton,66.90%
+Michigan,over,Providence,63.96%
+Michigan,over,Purdue,57.42%
+Michigan,over,Rhode Island,65.35%
+Michigan,over,S Dakota St,75.78%
+Michigan,over,Seton Hall,63.09%
+Michigan,over,SMU,60.05%
+Michigan,over,South Carolina,59.18%
+Michigan,over,St Mary's CA,65.28%
+Michigan,over,Troy,69.02%
+Michigan,over,TX Southern,68.87%
+Michigan,over,UC Davis,71.98%
+Michigan,over,UCLA,49.29%
+Michigan,over,UNC Wilmington,66.38%
+Michigan,over,USC,62.23%
+Michigan,over,VA Commonwealth,61.95%
+Michigan,over,Vanderbilt,65.34%
+Michigan,over,Vermont,67.57%
+Michigan,over,Villanova,42.64%
+Michigan,over,Virginia,50.42%
+Michigan,over,Virginia Tech,62.38%
+Michigan,over,Wake Forest,65.61%
+Michigan,over,West Virginia,49.89%
+Michigan,over,Wichita St,62.78%
+Michigan,over,Winthrop,71.00%
+Michigan,over,Wisconsin,55.59%
+Michigan,over,Xavier,65.12%
+Michigan St,over,Minnesota,35.55%
+Michigan St,over,Mt St Mary's,53.38%
+Michigan St,over,MTSU,48.97%
+Michigan St,over,N Kentucky,61.17%
+Michigan St,over,NC Central,63.98%
+Michigan St,over,Nevada,43.76%
+Michigan St,over,New Mexico St,59.50%
+Michigan St,over,New Orleans,64.76%
+Michigan St,over,North Carolina,31.39%
+Michigan St,over,North Dakota,62.36%
+Michigan St,over,Northwestern,38.35%
+Michigan St,over,Notre Dame,32.50%
+Michigan St,over,Oklahoma St,43.88%
+Michigan St,over,Oregon,30.07%
+Michigan St,over,Princeton,46.33%
+Michigan St,over,Providence,43.61%
+Michigan St,over,Purdue,36.75%
+Michigan St,over,Rhode Island,43.52%
+Michigan St,over,S Dakota St,59.18%
+Michigan St,over,Seton Hall,44.47%
+Michigan St,over,SMU,36.62%
+Michigan St,over,South Carolina,39.24%
+Michigan St,over,St Mary's CA,40.40%
+Michigan St,over,Troy,50.37%
+Michigan St,over,TX Southern,50.49%
+Michigan St,over,UC Davis,54.41%
+Michigan St,over,UCLA,31.95%
+Michigan St,over,UNC Wilmington,45.12%
+Michigan St,over,USC,40.77%
+Michigan St,over,VA Commonwealth,39.56%
+Michigan St,over,Vanderbilt,46.88%
+Michigan St,over,Vermont,44.05%
+Michigan St,over,Villanova,28.53%
+Michigan St,over,Virginia,34.06%
+Michigan St,over,Virginia Tech,43.57%
+Michigan St,over,Wake Forest,49.07%
+Michigan St,over,West Virginia,33.53%
+Michigan St,over,Wichita St,39.74%
+Michigan St,over,Winthrop,54.09%
+Michigan St,over,Wisconsin,36.37%
+Michigan St,over,Xavier,48.08%
+Minnesota,over,Mt St Mary's,68.90%
+Minnesota,over,MTSU,70.15%
+Minnesota,over,N Kentucky,78.59%
+Minnesota,over,NC Central,79.45%
+Minnesota,over,Nevada,66.54%
+Minnesota,over,New Mexico St,74.50%
+Minnesota,over,New Orleans,80.45%
+Minnesota,over,North Carolina,43.24%
+Minnesota,over,North Dakota,75.83%
+Minnesota,over,Northwestern,54.24%
+Minnesota,over,Notre Dame,44.88%
+Minnesota,over,Oklahoma St,59.02%
+Minnesota,over,Oregon,41.63%
+Minnesota,over,Princeton,63.86%
+Minnesota,over,Providence,62.29%
+Minnesota,over,Purdue,57.68%
+Minnesota,over,Rhode Island,64.04%
+Minnesota,over,S Dakota St,74.51%
+Minnesota,over,Seton Hall,64.18%
+Minnesota,over,SMU,59.76%
+Minnesota,over,South Carolina,54.11%
+Minnesota,over,St Mary's CA,63.46%
+Minnesota,over,Troy,67.97%
+Minnesota,over,TX Southern,68.00%
+Minnesota,over,UC Davis,70.96%
+Minnesota,over,UCLA,49.79%
+Minnesota,over,UNC Wilmington,63.86%
+Minnesota,over,USC,61.12%
+Minnesota,over,VA Commonwealth,59.83%
+Minnesota,over,Vanderbilt,65.66%
+Minnesota,over,Vermont,66.73%
+Minnesota,over,Villanova,41.34%
+Minnesota,over,Virginia,45.86%
+Minnesota,over,Virginia Tech,63.25%
+Minnesota,over,Wake Forest,65.37%
+Minnesota,over,West Virginia,45.76%
+Minnesota,over,Wichita St,59.78%
+Minnesota,over,Winthrop,70.20%
+Minnesota,over,Wisconsin,52.62%
+Minnesota,over,Xavier,65.90%
+Mt St Mary's,over,MTSU,49.22%
+Mt St Mary's,over,N Kentucky,63.35%
+Mt St Mary's,over,NC Central,60.96%
+Mt St Mary's,over,Nevada,43.81%
+Mt St Mary's,over,New Mexico St,58.68%
+Mt St Mary's,over,New Orleans,65.17%
+Mt St Mary's,over,North Carolina,30.92%
+Mt St Mary's,over,North Dakota,60.70%
+Mt St Mary's,over,Northwestern,37.07%
+Mt St Mary's,over,Notre Dame,31.93%
+Mt St Mary's,over,Oklahoma St,44.89%
+Mt St Mary's,over,Oregon,29.44%
+Mt St Mary's,over,Princeton,43.95%
+Mt St Mary's,over,Providence,43.81%
+Mt St Mary's,over,Purdue,36.57%
+Mt St Mary's,over,Rhode Island,43.21%
+Mt St Mary's,over,S Dakota St,63.83%
+Mt St Mary's,over,Seton Hall,46.60%
+Mt St Mary's,over,SMU,36.16%
+Mt St Mary's,over,South Carolina,37.64%
+Mt St Mary's,over,St Mary's CA,40.47%
+Mt St Mary's,over,Troy,54.99%
+Mt St Mary's,over,TX Southern,52.44%
+Mt St Mary's,over,UC Davis,58.47%
+Mt St Mary's,over,UCLA,31.90%
+Mt St Mary's,over,UNC Wilmington,43.69%
+Mt St Mary's,over,USC,40.19%
+Mt St Mary's,over,VA Commonwealth,38.73%
+Mt St Mary's,over,Vanderbilt,49.31%
+Mt St Mary's,over,Vermont,43.82%
+Mt St Mary's,over,Villanova,28.25%
+Mt St Mary's,over,Virginia,33.30%
+Mt St Mary's,over,Virginia Tech,44.13%
+Mt St Mary's,over,Wake Forest,53.09%
+Mt St Mary's,over,West Virginia,32.88%
+Mt St Mary's,over,Wichita St,39.21%
+Mt St Mary's,over,Winthrop,53.39%
+Mt St Mary's,over,Wisconsin,35.19%
+Mt St Mary's,over,Xavier,51.66%
+MTSU,over,N Kentucky,66.77%
+MTSU,over,NC Central,65.40%
+MTSU,over,Nevada,48.57%
+MTSU,over,New Mexico St,62.48%
+MTSU,over,New Orleans,69.75%
+MTSU,over,North Carolina,30.92%
+MTSU,over,North Dakota,65.53%
+MTSU,over,Northwestern,36.55%
+MTSU,over,Notre Dame,31.70%
+MTSU,over,Oklahoma St,47.02%
+MTSU,over,Oregon,29.24%
+MTSU,over,Princeton,45.49%
+MTSU,over,Providence,49.34%
+MTSU,over,Purdue,36.68%
+MTSU,over,Rhode Island,48.35%
+MTSU,over,S Dakota St,68.29%
+MTSU,over,Seton Hall,47.71%
+MTSU,over,SMU,37.91%
+MTSU,over,South Carolina,38.08%
+MTSU,over,St Mary's CA,44.81%
+MTSU,over,Troy,59.69%
+MTSU,over,TX Southern,57.08%
+MTSU,over,UC Davis,62.33%
+MTSU,over,UCLA,33.08%
+MTSU,over,UNC Wilmington,44.65%
+MTSU,over,USC,43.22%
+MTSU,over,VA Commonwealth,41.54%
+MTSU,over,Vanderbilt,50.83%
+MTSU,over,Vermont,48.93%
+MTSU,over,Villanova,27.82%
+MTSU,over,Virginia,33.58%
+MTSU,over,Virginia Tech,45.58%
+MTSU,over,Wake Forest,56.24%
+MTSU,over,West Virginia,33.04%
+MTSU,over,Wichita St,39.79%
+MTSU,over,Winthrop,57.92%
+MTSU,over,Wisconsin,35.07%
+MTSU,over,Xavier,53.51%
+N Kentucky,over,NC Central,52.90%
+N Kentucky,over,Nevada,36.21%
+N Kentucky,over,New Mexico St,47.90%
+N Kentucky,over,New Orleans,59.02%
+N Kentucky,over,North Carolina,24.22%
+N Kentucky,over,North Dakota,52.62%
+N Kentucky,over,Northwestern,30.85%
+N Kentucky,over,Notre Dame,25.65%
+N Kentucky,over,Oklahoma St,36.39%
+N Kentucky,over,Oregon,21.61%
+N Kentucky,over,Princeton,34.36%
+N Kentucky,over,Providence,37.73%
+N Kentucky,over,Purdue,32.33%
+N Kentucky,over,Rhode Island,35.79%
+N Kentucky,over,S Dakota St,58.04%
+N Kentucky,over,Seton Hall,39.59%
+N Kentucky,over,SMU,32.21%
+N Kentucky,over,South Carolina,30.60%
+N Kentucky,over,St Mary's CA,35.87%
+N Kentucky,over,Troy,43.89%
+N Kentucky,over,TX Southern,41.25%
+N Kentucky,over,UC Davis,47.02%
+N Kentucky,over,UCLA,28.83%
+N Kentucky,over,UNC Wilmington,34.39%
+N Kentucky,over,USC,33.97%
+N Kentucky,over,VA Commonwealth,32.55%
+N Kentucky,over,Vanderbilt,41.33%
+N Kentucky,over,Vermont,36.52%
+N Kentucky,over,Villanova,17.37%
+N Kentucky,over,Virginia,27.30%
+N Kentucky,over,Virginia Tech,38.11%
+N Kentucky,over,Wake Forest,44.06%
+N Kentucky,over,West Virginia,27.04%
+N Kentucky,over,Wichita St,31.08%
+N Kentucky,over,Winthrop,41.49%
+N Kentucky,over,Wisconsin,29.15%
+N Kentucky,over,Xavier,43.05%
+NC Central,over,Nevada,37.88%
+NC Central,over,New Mexico St,50.38%
+NC Central,over,New Orleans,60.98%
+NC Central,over,North Carolina,24.40%
+NC Central,over,North Dakota,55.52%
+NC Central,over,Northwestern,31.80%
+NC Central,over,Notre Dame,26.72%
+NC Central,over,Oklahoma St,38.99%
+NC Central,over,Oregon,21.48%
+NC Central,over,Princeton,39.19%
+NC Central,over,Providence,37.36%
+NC Central,over,Purdue,28.79%
+NC Central,over,Rhode Island,37.26%
+NC Central,over,S Dakota St,58.83%
+NC Central,over,Seton Hall,36.16%
+NC Central,over,SMU,31.17%
+NC Central,over,South Carolina,33.40%
+NC Central,over,St Mary's CA,35.42%
+NC Central,over,Troy,45.55%
+NC Central,over,TX Southern,44.17%
+NC Central,over,UC Davis,49.87%
+NC Central,over,UCLA,25.87%
+NC Central,over,UNC Wilmington,38.84%
+NC Central,over,USC,35.39%
+NC Central,over,VA Commonwealth,34.87%
+NC Central,over,Vanderbilt,37.59%
+NC Central,over,Vermont,38.52%
+NC Central,over,Villanova,16.95%
+NC Central,over,Virginia,29.00%
+NC Central,over,Virginia Tech,35.13%
+NC Central,over,Wake Forest,41.85%
+NC Central,over,West Virginia,28.67%
+NC Central,over,Wichita St,35.10%
+NC Central,over,Winthrop,43.67%
+NC Central,over,Wisconsin,30.59%
+NC Central,over,Xavier,39.71%
+Nevada,over,New Mexico St,64.22%
+Nevada,over,New Orleans,71.26%
+Nevada,over,North Carolina,32.48%
+Nevada,over,North Dakota,66.36%
+Nevada,over,Northwestern,37.55%
+Nevada,over,Notre Dame,33.06%
+Nevada,over,Oklahoma St,49.22%
+Nevada,over,Oregon,31.03%
+Nevada,over,Princeton,47.92%
+Nevada,over,Providence,51.56%
+Nevada,over,Purdue,39.67%
+Nevada,over,Rhode Island,51.28%
+Nevada,over,S Dakota St,69.25%
+Nevada,over,Seton Hall,52.00%
+Nevada,over,SMU,39.37%
+Nevada,over,South Carolina,38.80%
+Nevada,over,St Mary's CA,47.76%
+Nevada,over,Troy,61.11%
+Nevada,over,TX Southern,59.34%
+Nevada,over,UC Davis,64.06%
+Nevada,over,UCLA,35.01%
+Nevada,over,UNC Wilmington,47.24%
+Nevada,over,USC,45.97%
+Nevada,over,VA Commonwealth,42.84%
+Nevada,over,Vanderbilt,55.16%
+Nevada,over,Vermont,52.10%
+Nevada,over,Villanova,29.80%
+Nevada,over,Virginia,35.10%
+Nevada,over,Virginia Tech,49.30%
+Nevada,over,Wake Forest,57.61%
+Nevada,over,West Virginia,34.41%
+Nevada,over,Wichita St,41.35%
+Nevada,over,Winthrop,60.14%
+Nevada,over,Wisconsin,36.17%
+Nevada,over,Xavier,56.20%
+New Mexico St,over,New Orleans,63.87%
+New Mexico St,over,North Carolina,27.86%
+New Mexico St,over,North Dakota,58.23%
+New Mexico St,over,Northwestern,33.16%
+New Mexico St,over,Notre Dame,29.13%
+New Mexico St,over,Oklahoma St,38.73%
+New Mexico St,over,Oregon,26.70%
+New Mexico St,over,Princeton,39.42%
+New Mexico St,over,Providence,40.29%
+New Mexico St,over,Purdue,33.80%
+New Mexico St,over,Rhode Island,40.44%
+New Mexico St,over,S Dakota St,62.48%
+New Mexico St,over,Seton Hall,41.94%
+New Mexico St,over,SMU,34.40%
+New Mexico St,over,South Carolina,33.88%
+New Mexico St,over,St Mary's CA,37.99%
+New Mexico St,over,Troy,52.28%
+New Mexico St,over,TX Southern,50.07%
+New Mexico St,over,UC Davis,56.61%
+New Mexico St,over,UCLA,29.92%
+New Mexico St,over,UNC Wilmington,39.64%
+New Mexico St,over,USC,37.81%
+New Mexico St,over,VA Commonwealth,36.03%
+New Mexico St,over,Vanderbilt,44.10%
+New Mexico St,over,Vermont,42.13%
+New Mexico St,over,Villanova,23.87%
+New Mexico St,over,Virginia,29.96%
+New Mexico St,over,Virginia Tech,40.50%
+New Mexico St,over,Wake Forest,47.31%
+New Mexico St,over,West Virginia,29.98%
+New Mexico St,over,Wichita St,36.21%
+New Mexico St,over,Winthrop,50.41%
+New Mexico St,over,Wisconsin,31.95%
+New Mexico St,over,Xavier,46.40%
+New Orleans,over,North Carolina,21.04%
+New Orleans,over,North Dakota,52.13%
+New Orleans,over,Northwestern,30.73%
+New Orleans,over,Notre Dame,24.16%
+New Orleans,over,Oklahoma St,36.43%
+New Orleans,over,Oregon,18.82%
+New Orleans,over,Princeton,37.61%
+New Orleans,over,Providence,35.02%
+New Orleans,over,Purdue,27.83%
+New Orleans,over,Rhode Island,35.89%
+New Orleans,over,S Dakota St,55.95%
+New Orleans,over,Seton Hall,35.72%
+New Orleans,over,SMU,29.33%
+New Orleans,over,South Carolina,31.63%
+New Orleans,over,St Mary's CA,32.41%
+New Orleans,over,Troy,42.47%
+New Orleans,over,TX Southern,42.59%
+New Orleans,over,UC Davis,46.52%
+New Orleans,over,UCLA,23.11%
+New Orleans,over,UNC Wilmington,37.33%
+New Orleans,over,USC,34.11%
+New Orleans,over,VA Commonwealth,33.05%
+New Orleans,over,Vanderbilt,37.29%
+New Orleans,over,Vermont,37.11%
+New Orleans,over,Villanova,16.35%
+New Orleans,over,Virginia,27.13%
+New Orleans,over,Virginia Tech,34.53%
+New Orleans,over,Wake Forest,39.40%
+New Orleans,over,West Virginia,26.93%
+New Orleans,over,Wichita St,33.75%
+New Orleans,over,Winthrop,41.25%
+New Orleans,over,Wisconsin,28.98%
+New Orleans,over,Xavier,38.76%
+North Carolina,over,North Dakota,82.58%
+North Carolina,over,Northwestern,61.40%
+North Carolina,over,Notre Dame,47.20%
+North Carolina,over,Oklahoma St,67.59%
+North Carolina,over,Oregon,43.89%
+North Carolina,over,Princeton,69.43%
+North Carolina,over,Providence,68.84%
+North Carolina,over,Purdue,53.65%
+North Carolina,over,Rhode Island,68.97%
+North Carolina,over,S Dakota St,81.50%
+North Carolina,over,Seton Hall,65.57%
+North Carolina,over,SMU,60.94%
+North Carolina,over,South Carolina,63.63%
+North Carolina,over,St Mary's CA,66.74%
+North Carolina,over,Troy,73.16%
+North Carolina,over,TX Southern,71.76%
+North Carolina,over,UC Davis,76.17%
+North Carolina,over,UCLA,48.61%
+North Carolina,over,UNC Wilmington,69.59%
+North Carolina,over,USC,65.72%
+North Carolina,over,VA Commonwealth,64.65%
+North Carolina,over,Vanderbilt,66.47%
+North Carolina,over,Vermont,70.61%
+North Carolina,over,Villanova,41.05%
+North Carolina,over,Virginia,50.98%
+North Carolina,over,Virginia Tech,64.96%
+North Carolina,over,Wake Forest,70.30%
+North Carolina,over,West Virginia,51.42%
+North Carolina,over,Wichita St,66.09%
+North Carolina,over,Winthrop,75.00%
+North Carolina,over,Wisconsin,58.33%
+North Carolina,over,Xavier,68.27%
+North Dakota,over,Northwestern,31.47%
+North Dakota,over,Notre Dame,26.62%
+North Dakota,over,Oklahoma St,39.72%
+North Dakota,over,Oregon,21.55%
+North Dakota,over,Princeton,38.29%
+North Dakota,over,Providence,37.23%
+North Dakota,over,Purdue,28.15%
+North Dakota,over,Rhode Island,37.32%
+North Dakota,over,S Dakota St,59.66%
+North Dakota,over,Seton Hall,36.74%
+North Dakota,over,SMU,30.01%
+North Dakota,over,South Carolina,32.68%
+North Dakota,over,St Mary's CA,32.87%
+North Dakota,over,Troy,46.42%
+North Dakota,over,TX Southern,48.10%
+North Dakota,over,UC Davis,52.46%
+North Dakota,over,UCLA,25.28%
+North Dakota,over,UNC Wilmington,38.60%
+North Dakota,over,USC,35.97%
+North Dakota,over,VA Commonwealth,33.86%
+North Dakota,over,Vanderbilt,38.55%
+North Dakota,over,Vermont,39.02%
+North Dakota,over,Villanova,18.35%
+North Dakota,over,Virginia,28.49%
+North Dakota,over,Virginia Tech,35.20%
+North Dakota,over,Wake Forest,41.49%
+North Dakota,over,West Virginia,28.48%
+North Dakota,over,Wichita St,34.98%
+North Dakota,over,Winthrop,43.49%
+North Dakota,over,Wisconsin,30.42%
+North Dakota,over,Xavier,40.14%
+Northwestern,over,Notre Dame,41.76%
+Northwestern,over,Oklahoma St,56.76%
+Northwestern,over,Oregon,37.57%
+Northwestern,over,Princeton,62.09%
+Northwestern,over,Providence,59.84%
+Northwestern,over,Purdue,52.66%
+Northwestern,over,Rhode Island,61.68%
+Northwestern,over,S Dakota St,71.47%
+Northwestern,over,Seton Hall,61.56%
+Northwestern,over,SMU,55.26%
+Northwestern,over,South Carolina,50.94%
+Northwestern,over,St Mary's CA,59.44%
+Northwestern,over,Troy,65.75%
+Northwestern,over,TX Southern,65.93%
+Northwestern,over,UC Davis,68.52%
+Northwestern,over,UCLA,41.76%
+Northwestern,over,UNC Wilmington,62.75%
+Northwestern,over,USC,58.89%
+Northwestern,over,VA Commonwealth,56.09%
+Northwestern,over,Vanderbilt,62.89%
+Northwestern,over,Vermont,64.69%
+Northwestern,over,Villanova,37.16%
+Northwestern,over,Virginia,42.88%
+Northwestern,over,Virginia Tech,60.77%
+Northwestern,over,Wake Forest,62.53%
+Northwestern,over,West Virginia,42.32%
+Northwestern,over,Wichita St,58.40%
+Northwestern,over,Winthrop,67.90%
+Northwestern,over,Wisconsin,50.48%
+Northwestern,over,Xavier,63.18%
+Notre Dame,over,Oklahoma St,63.30%
+Notre Dame,over,Oregon,44.88%
+Notre Dame,over,Princeton,68.17%
+Notre Dame,over,Providence,65.71%
+Notre Dame,over,Purdue,59.49%
+Notre Dame,over,Rhode Island,66.98%
+Notre Dame,over,S Dakota St,78.32%
+Notre Dame,over,Seton Hall,64.64%
+Notre Dame,over,SMU,61.48%
+Notre Dame,over,South Carolina,60.82%
+Notre Dame,over,St Mary's CA,67.78%
+Notre Dame,over,Troy,70.58%
+Notre Dame,over,TX Southern,70.34%
+Notre Dame,over,UC Davis,73.90%
+Notre Dame,over,UCLA,52.44%
+Notre Dame,over,UNC Wilmington,67.55%
+Notre Dame,over,USC,63.93%
+Notre Dame,over,VA Commonwealth,63.67%
+Notre Dame,over,Vanderbilt,66.67%
+Notre Dame,over,Vermont,69.05%
+Notre Dame,over,Villanova,44.18%
+Notre Dame,over,Virginia,53.00%
+Notre Dame,over,Virginia Tech,63.89%
+Notre Dame,over,Wake Forest,67.33%
+Notre Dame,over,West Virginia,52.31%
+Notre Dame,over,Wichita St,64.00%
+Notre Dame,over,Winthrop,72.92%
+Notre Dame,over,Wisconsin,57.02%
+Notre Dame,over,Xavier,66.72%
+Oklahoma St,over,Oregon,33.84%
+Oklahoma St,over,Princeton,54.91%
+Oklahoma St,over,Providence,50.68%
+Oklahoma St,over,Purdue,40.50%
+Oklahoma St,over,Rhode Island,52.12%
+Oklahoma St,over,S Dakota St,66.06%
+Oklahoma St,over,Seton Hall,56.64%
+Oklahoma St,over,SMU,42.86%
+Oklahoma St,over,South Carolina,42.82%
+Oklahoma St,over,St Mary's CA,44.91%
+Oklahoma St,over,Troy,60.71%
+Oklahoma St,over,TX Southern,62.10%
+Oklahoma St,over,UC Davis,63.62%
+Oklahoma St,over,UCLA,35.64%
+Oklahoma St,over,UNC Wilmington,55.27%
+Oklahoma St,over,USC,50.37%
+Oklahoma St,over,VA Commonwealth,44.55%
+Oklahoma St,over,Vanderbilt,57.68%
+Oklahoma St,over,Vermont,57.32%
+Oklahoma St,over,Villanova,33.57%
+Oklahoma St,over,Virginia,36.91%
+Oklahoma St,over,Virginia Tech,54.36%
+Oklahoma St,over,Wake Forest,58.27%
+Oklahoma St,over,West Virginia,36.82%
+Oklahoma St,over,Wichita St,48.10%
+Oklahoma St,over,Winthrop,61.68%
+Oklahoma St,over,Wisconsin,43.03%
+Oklahoma St,over,Xavier,59.08%
+Oregon,over,Princeton,70.23%
+Oregon,over,Providence,69.27%
+Oregon,over,Purdue,59.18%
+Oregon,over,Rhode Island,69.76%
+Oregon,over,S Dakota St,82.19%
+Oregon,over,Seton Hall,67.63%
+Oregon,over,SMU,65.00%
+Oregon,over,South Carolina,63.88%
+Oregon,over,St Mary's CA,69.34%
+Oregon,over,Troy,74.31%
+Oregon,over,TX Southern,73.56%
+Oregon,over,UC Davis,77.58%
+Oregon,over,UCLA,53.97%
+Oregon,over,UNC Wilmington,69.87%
+Oregon,over,USC,67.26%
+Oregon,over,VA Commonwealth,66.16%
+Oregon,over,Vanderbilt,68.41%
+Oregon,over,Vermont,72.27%
+Oregon,over,Villanova,45.05%
+Oregon,over,Virginia,52.24%
+Oregon,over,Virginia Tech,67.02%
+Oregon,over,Wake Forest,70.77%
+Oregon,over,West Virginia,52.64%
+Oregon,over,Wichita St,66.75%
+Oregon,over,Winthrop,76.64%
+Oregon,over,Wisconsin,60.00%
+Oregon,over,Xavier,69.69%
+Princeton,over,Providence,55.42%
+Princeton,over,Purdue,38.24%
+Princeton,over,Rhode Island,54.47%
+Princeton,over,S Dakota St,71.93%
+Princeton,over,Seton Hall,55.83%
+Princeton,over,SMU,42.70%
+Princeton,over,South Carolina,42.55%
+Princeton,over,St Mary's CA,46.35%
+Princeton,over,Troy,64.94%
+Princeton,over,TX Southern,63.92%
+Princeton,over,UC Davis,68.17%
+Princeton,over,UCLA,33.66%
+Princeton,over,UNC Wilmington,54.63%
+Princeton,over,USC,51.31%
+Princeton,over,VA Commonwealth,44.11%
+Princeton,over,Vanderbilt,59.44%
+Princeton,over,Vermont,57.14%
+Princeton,over,Villanova,32.00%
+Princeton,over,Virginia,35.66%
+Princeton,over,Virginia Tech,53.75%
+Princeton,over,Wake Forest,60.83%
+Princeton,over,West Virginia,35.53%
+Princeton,over,Wichita St,47.46%
+Princeton,over,Winthrop,63.30%
+Princeton,over,Wisconsin,40.67%
+Princeton,over,Xavier,60.14%
+Providence,over,Purdue,40.18%
+Providence,over,Rhode Island,53.69%
+Providence,over,S Dakota St,66.04%
+Providence,over,Seton Hall,54.74%
+Providence,over,SMU,40.65%
+Providence,over,South Carolina,43.51%
+Providence,over,St Mary's CA,45.93%
+Providence,over,Troy,60.44%
+Providence,over,TX Southern,60.16%
+Providence,over,UC Davis,62.98%
+Providence,over,UCLA,34.49%
+Providence,over,UNC Wilmington,54.55%
+Providence,over,USC,48.67%
+Providence,over,VA Commonwealth,45.09%
+Providence,over,Vanderbilt,57.29%
+Providence,over,Vermont,53.70%
+Providence,over,Villanova,31.50%
+Providence,over,Virginia,36.94%
+Providence,over,Virginia Tech,53.52%
+Providence,over,Wake Forest,58.09%
+Providence,over,West Virginia,36.22%
+Providence,over,Wichita St,45.96%
+Providence,over,Winthrop,61.52%
+Providence,over,Wisconsin,40.04%
+Providence,over,Xavier,57.38%
+Purdue,over,Rhode Island,63.58%
+Purdue,over,S Dakota St,73.31%
+Purdue,over,Seton Hall,59.12%
+Purdue,over,SMU,53.98%
+Purdue,over,South Carolina,56.50%
+Purdue,over,St Mary's CA,64.06%
+Purdue,over,Troy,66.65%
+Purdue,over,TX Southern,66.18%
+Purdue,over,UC Davis,69.07%
+Purdue,over,UCLA,42.57%
+Purdue,over,UNC Wilmington,65.32%
+Purdue,over,USC,58.99%
+Purdue,over,VA Commonwealth,60.69%
+Purdue,over,Vanderbilt,61.99%
+Purdue,over,Vermont,65.20%
+Purdue,over,Villanova,37.60%
+Purdue,over,Virginia,47.10%
+Purdue,over,Virginia Tech,58.49%
+Purdue,over,Wake Forest,63.83%
+Purdue,over,West Virginia,46.25%
+Purdue,over,Wichita St,60.01%
+Purdue,over,Winthrop,69.12%
+Purdue,over,Wisconsin,49.21%
+Purdue,over,Xavier,61.62%
+Rhode Island,over,S Dakota St,69.28%
+Rhode Island,over,Seton Hall,54.26%
+Rhode Island,over,SMU,40.47%
+Rhode Island,over,South Carolina,42.13%
+Rhode Island,over,St Mary's CA,46.46%
+Rhode Island,over,Troy,63.75%
+Rhode Island,over,TX Southern,62.32%
+Rhode Island,over,UC Davis,66.52%
+Rhode Island,over,UCLA,33.97%
+Rhode Island,over,UNC Wilmington,54.16%
+Rhode Island,over,USC,49.58%
+Rhode Island,over,VA Commonwealth,44.26%
+Rhode Island,over,Vanderbilt,57.90%
+Rhode Island,over,Vermont,55.66%
+Rhode Island,over,Villanova,30.81%
+Rhode Island,over,Virginia,35.88%
+Rhode Island,over,Virginia Tech,52.32%
+Rhode Island,over,Wake Forest,60.39%
+Rhode Island,over,West Virginia,35.44%
+Rhode Island,over,Wichita St,45.72%
+Rhode Island,over,Winthrop,62.94%
+Rhode Island,over,Wisconsin,39.35%
+Rhode Island,over,Xavier,58.87%
+S Dakota St,over,Seton Hall,39.84%
+S Dakota St,over,SMU,32.48%
+S Dakota St,over,South Carolina,32.61%
+S Dakota St,over,St Mary's CA,35.96%
+S Dakota St,over,Troy,44.11%
+S Dakota St,over,TX Southern,41.09%
+S Dakota St,over,UC Davis,46.15%
+S Dakota St,over,UCLA,27.93%
+S Dakota St,over,UNC Wilmington,36.35%
+S Dakota St,over,USC,34.84%
+S Dakota St,over,VA Commonwealth,33.66%
+S Dakota St,over,Vanderbilt,41.62%
+S Dakota St,over,Vermont,36.26%
+S Dakota St,over,Villanova,20.66%
+S Dakota St,over,Virginia,29.04%
+S Dakota St,over,Virginia Tech,38.35%
+S Dakota St,over,Wake Forest,44.44%
+S Dakota St,over,West Virginia,28.94%
+S Dakota St,over,Wichita St,32.81%
+S Dakota St,over,Winthrop,41.13%
+S Dakota St,over,Wisconsin,31.61%
+S Dakota St,over,Xavier,43.23%
+Seton Hall,over,SMU,44.53%
+Seton Hall,over,South Carolina,44.80%
+Seton Hall,over,St Mary's CA,51.61%
+Seton Hall,over,Troy,59.98%
+Seton Hall,over,TX Southern,59.40%
+Seton Hall,over,UC Davis,62.48%
+Seton Hall,over,UCLA,37.43%
+Seton Hall,over,UNC Wilmington,53.07%
+Seton Hall,over,USC,49.80%
+Seton Hall,over,VA Commonwealth,46.08%
+Seton Hall,over,Vanderbilt,59.54%
+Seton Hall,over,Vermont,55.30%
+Seton Hall,over,Villanova,32.49%
+Seton Hall,over,Virginia,37.97%
+Seton Hall,over,Virginia Tech,56.48%
+Seton Hall,over,Wake Forest,60.33%
+Seton Hall,over,West Virginia,37.29%
+Seton Hall,over,Wichita St,44.40%
+Seton Hall,over,Winthrop,62.43%
+Seton Hall,over,Wisconsin,41.37%
+Seton Hall,over,Xavier,59.70%
+SMU,over,South Carolina,48.35%
+SMU,over,St Mary's CA,61.36%
+SMU,over,Troy,68.32%
+SMU,over,TX Southern,67.86%
+SMU,over,UC Davis,71.10%
+SMU,over,UCLA,44.83%
+SMU,over,UNC Wilmington,60.28%
+SMU,over,USC,60.01%
+SMU,over,VA Commonwealth,58.39%
+SMU,over,Vanderbilt,65.95%
+SMU,over,Vermont,63.54%
+SMU,over,Villanova,34.74%
+SMU,over,Virginia,42.10%
+SMU,over,Virginia Tech,62.95%
+SMU,over,Wake Forest,66.38%
+SMU,over,West Virginia,40.35%
+SMU,over,Wichita St,54.05%
+SMU,over,Winthrop,69.77%
+SMU,over,Wisconsin,45.90%
+SMU,over,Xavier,65.63%
+South Carolina,over,St Mary's CA,53.70%
+South Carolina,over,Troy,65.26%
+South Carolina,over,TX Southern,66.10%
+South Carolina,over,UC Davis,68.93%
+South Carolina,over,UCLA,37.91%
+South Carolina,over,UNC Wilmington,59.68%
+South Carolina,over,USC,54.38%
+South Carolina,over,VA Commonwealth,49.79%
+South Carolina,over,Vanderbilt,57.81%
+South Carolina,over,Vermont,60.79%
+South Carolina,over,Villanova,37.32%
+South Carolina,over,Virginia,38.66%
+South Carolina,over,Virginia Tech,54.27%
+South Carolina,over,Wake Forest,60.11%
+South Carolina,over,West Virginia,38.91%
+South Carolina,over,Wichita St,54.43%
+South Carolina,over,Winthrop,64.78%
+South Carolina,over,Wisconsin,43.72%
+South Carolina,over,Xavier,60.36%
+St Mary's CA,over,Troy,65.81%
+St Mary's CA,over,TX Southern,62.97%
+St Mary's CA,over,UC Davis,68.54%
+St Mary's CA,over,UCLA,36.09%
+St Mary's CA,over,UNC Wilmington,53.16%
+St Mary's CA,over,USC,50.69%
+St Mary's CA,over,VA Commonwealth,49.23%
+St Mary's CA,over,Vanderbilt,59.43%
+St Mary's CA,over,Vermont,56.39%
+St Mary's CA,over,Villanova,30.76%
+St Mary's CA,over,Virginia,37.57%
+St Mary's CA,over,Virginia Tech,54.06%
+St Mary's CA,over,Wake Forest,63.45%
+St Mary's CA,over,West Virginia,36.68%
+St Mary's CA,over,Wichita St,44.75%
+St Mary's CA,over,Winthrop,63.88%
+St Mary's CA,over,Wisconsin,38.88%
+St Mary's CA,over,Xavier,60.60%
+Troy,over,TX Southern,50.80%
+Troy,over,UC Davis,57.11%
+Troy,over,UCLA,32.95%
+Troy,over,UNC Wilmington,41.89%
+Troy,over,USC,39.16%
+Troy,over,VA Commonwealth,37.21%
+Troy,over,Vanderbilt,50.39%
+Troy,over,Vermont,42.56%
+Troy,over,Villanova,27.88%
+Troy,over,Virginia,33.57%
+Troy,over,Virginia Tech,45.06%
+Troy,over,Wake Forest,53.97%
+Troy,over,West Virginia,32.88%
+Troy,over,Wichita St,37.53%
+Troy,over,Winthrop,51.75%
+Troy,over,Wisconsin,35.23%
+Troy,over,Xavier,52.69%
+TX Southern,over,UC Davis,58.65%
+TX Southern,over,UCLA,33.21%
+TX Southern,over,UNC Wilmington,40.73%
+TX Southern,over,USC,40.18%
+TX Southern,over,VA Commonwealth,37.37%
+TX Southern,over,Vanderbilt,52.93%
+TX Southern,over,Vermont,44.37%
+TX Southern,over,Villanova,28.47%
+TX Southern,over,Virginia,32.43%
+TX Southern,over,Virginia Tech,47.62%
+TX Southern,over,Wake Forest,54.35%
+TX Southern,over,West Virginia,32.21%
+TX Southern,over,Wichita St,37.27%
+TX Southern,over,Winthrop,53.08%
+TX Southern,over,Wisconsin,35.32%
+TX Southern,over,Xavier,54.70%
+UC Davis,over,UCLA,30.00%
+UC Davis,over,UNC Wilmington,38.58%
+UC Davis,over,USC,37.46%
+UC Davis,over,VA Commonwealth,34.21%
+UC Davis,over,Vanderbilt,47.57%
+UC Davis,over,Vermont,40.72%
+UC Davis,over,Villanova,23.32%
+UC Davis,over,Virginia,29.56%
+UC Davis,over,Virginia Tech,42.67%
+UC Davis,over,Wake Forest,50.99%
+UC Davis,over,West Virginia,29.75%
+UC Davis,over,Wichita St,35.15%
+UC Davis,over,Winthrop,48.21%
+UC Davis,over,Wisconsin,33.24%
+UC Davis,over,Xavier,49.93%
+UCLA,over,UNC Wilmington,67.97%
+UCLA,over,USC,64.32%
+UCLA,over,VA Commonwealth,66.15%
+UCLA,over,Vanderbilt,66.17%
+UCLA,over,Vermont,69.64%
+UCLA,over,Villanova,39.25%
+UCLA,over,Virginia,52.95%
+UCLA,over,Virginia Tech,63.58%
+UCLA,over,Wake Forest,69.08%
+UCLA,over,West Virginia,51.43%
+UCLA,over,Wichita St,63.88%
+UCLA,over,Winthrop,73.58%
+UCLA,over,Wisconsin,54.69%
+UCLA,over,Xavier,66.80%
+UNC Wilmington,over,USC,52.12%
+UNC Wilmington,over,VA Commonwealth,45.40%
+UNC Wilmington,over,Vanderbilt,59.02%
+UNC Wilmington,over,Vermont,57.88%
+UNC Wilmington,over,Villanova,32.43%
+UNC Wilmington,over,Virginia,35.71%
+UNC Wilmington,over,Virginia Tech,54.74%
+UNC Wilmington,over,Wake Forest,61.01%
+UNC Wilmington,over,West Virginia,35.60%
+UNC Wilmington,over,Wichita St,47.34%
+UNC Wilmington,over,Winthrop,63.45%
+UNC Wilmington,over,Wisconsin,40.56%
+UNC Wilmington,over,Xavier,60.59%
+USC,over,VA Commonwealth,47.19%
+USC,over,Vanderbilt,61.94%
+USC,over,Vermont,57.44%
+USC,over,Villanova,33.01%
+USC,over,Virginia,38.57%
+USC,over,Virginia Tech,58.11%
+USC,over,Wake Forest,62.32%
+USC,over,West Virginia,37.71%
+USC,over,Wichita St,46.36%
+USC,over,Winthrop,63.59%
+USC,over,Wisconsin,41.21%
+USC,over,Xavier,62.37%
+VA Commonwealth,over,Vanderbilt,61.51%
+VA Commonwealth,over,Vermont,60.79%
+VA Commonwealth,over,Villanova,33.03%
+VA Commonwealth,over,Virginia,39.00%
+VA Commonwealth,over,Virginia Tech,58.51%
+VA Commonwealth,over,Wake Forest,64.66%
+VA Commonwealth,over,West Virginia,38.77%
+VA Commonwealth,over,Wichita St,54.29%
+VA Commonwealth,over,Winthrop,67.23%
+VA Commonwealth,over,Wisconsin,45.17%
+VA Commonwealth,over,Xavier,62.57%
+Vanderbilt,over,Vermont,55.52%
+Vanderbilt,over,Villanova,33.76%
+Vanderbilt,over,Virginia,40.41%
+Vanderbilt,over,Virginia Tech,54.60%
+Vanderbilt,over,Wake Forest,59.11%
+Vanderbilt,over,West Virginia,39.29%
+Vanderbilt,over,Wichita St,46.20%
+Vanderbilt,over,Winthrop,60.98%
+Vanderbilt,over,Wisconsin,42.68%
+Vanderbilt,over,Xavier,58.33%
+Vermont,over,Villanova,30.02%
+Vermont,over,Virginia,34.25%
+Vermont,over,Virginia Tech,52.21%
+Vermont,over,Wake Forest,57.81%
+Vermont,over,West Virginia,33.88%
+Vermont,over,Wichita St,41.16%
+Vermont,over,Winthrop,60.04%
+Vermont,over,Wisconsin,36.44%
+Vermont,over,Xavier,58.16%
+Villanova,over,Virginia,57.52%
+Villanova,over,Virginia Tech,69.91%
+Villanova,over,Wake Forest,72.13%
+Villanova,over,West Virginia,54.71%
+Villanova,over,Wichita St,66.98%
+Villanova,over,Winthrop,78.85%
+Villanova,over,Wisconsin,61.09%
+Villanova,over,Xavier,72.67%
+Virginia,over,Virginia Tech,63.55%
+Virginia,over,Wake Forest,68.28%
+Virginia,over,West Virginia,49.35%
+Virginia,over,Wichita St,65.07%
+Virginia,over,Winthrop,72.86%
+Virginia,over,Wisconsin,58.33%
+Virginia,over,Xavier,66.86%
+Virginia Tech,over,Wake Forest,60.92%
+Virginia Tech,over,West Virginia,38.28%
+Virginia Tech,over,Wichita St,44.99%
+Virginia Tech,over,Winthrop,63.41%
+Virginia Tech,over,Wisconsin,41.54%
+Virginia Tech,over,Xavier,60.47%
+Wake Forest,over,West Virginia,34.05%
+Wake Forest,over,Wichita St,41.44%
+Wake Forest,over,Winthrop,58.22%
+Wake Forest,over,Wisconsin,38.28%
+Wake Forest,over,Xavier,54.67%
+West Virginia,over,Wichita St,61.23%
+West Virginia,over,Winthrop,70.74%
+West Virginia,over,Wisconsin,52.37%
+West Virginia,over,Xavier,66.62%
+Wichita St,over,Winthrop,66.78%
+Wichita St,over,Wisconsin,42.91%
+Wichita St,over,Xavier,63.72%
+Winthrop,over,Wisconsin,33.79%
+Winthrop,over,Xavier,51.13%
+Wisconsin,over,Xavier,65.26%
