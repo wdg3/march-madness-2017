@@ -537,57 +537,60 @@ def define_model():
 
 	return model
 
-# Get our data from .csv to DataFrames.
-dfs = load_data()
+def main():
+	# Get our data from .csv to DataFrames.
+	dfs = load_data()
 
-# The NCAA has changed. After some tinkering I've found better results
-# excluding older data. Here we define the years for training and testing.
-train_years = [2013, 2014, 2015, 2016]
-test_years = [2009, 2010]
+	# The NCAA has changed. After some tinkering I've found better results
+	# excluding older data. Here we define the years for training and testing.
+	train_years = [2013, 2014, 2015, 2016]
+	test_years = [2009, 2010]
 
-# Name each DataFrame because we'll be using them a lot.
-season_results = dfs[0]
-seasons = dfs[1]
-teams = dfs[2]
-tourney_results = dfs[3]
-seeds = dfs[4]
-slots = dfs[5]
+	# Name each DataFrame because we'll be using them a lot.
+	season_results = dfs[0]
+	seasons = dfs[1]
+	teams = dfs[2]
+	tourney_results = dfs[3]
+	seeds = dfs[4]
+	slots = dfs[5]
 
-# Calculate season stats for training and test sets.
-train_stats = calc_stats(season_results, teams, seeds, train_years, 0.1)
-test_stats = calc_stats(season_results, teams, seeds, test_years, 0.1)
+	# Calculate season stats for training and test sets.
+	train_stats = calc_stats(season_results, teams, seeds, train_years, 0.1)
+	test_stats = calc_stats(season_results, teams, seeds, test_years, 0.1)
 
-# Label and vectorize our training and test sets.
-table, labels = label(train_stats, tourney_results, train_years)
-table_test, labels_test = label(test_stats, tourney_results, test_years)
+	# Label and vectorize our training and test sets.
+	table, labels = label(train_stats, tourney_results, train_years)
+	table_test, labels_test = label(test_stats, tourney_results, test_years)
 
-# Massage data into correct format to be fed into DNN.
-X = normalize(table)
-y = labels
-Xt = normalize(table_test)
-yt = labels_test
-y2 = to_categorical(y)
-yt2 = to_categorical(yt)
+	# Massage data into correct format to be fed into DNN.
+	X = normalize(table)
+	y = labels
+	Xt = normalize(table_test)
+	yt = labels_test
+	y2 = to_categorical(y)
+	yt2 = to_categorical(yt)
 
-model = define_model()
+	model = define_model()
 
-# Fit the model to the training set. This is the part where the machine learns.
-model.fit(X, y2, nb_epoch=1000, batch_size=256)
+	# Fit the model to the training set. This is the part where the machine learns.
+	model.fit(X, y2, nb_epoch=1000, batch_size=256)
 
-# Calculate and display accuracy on the test set.
-ys_dnn = model.predict_classes(Xt, batch_size=256)
-print("Deep neural network accuracy:")
-accuracy(ys_dnn, yt)
+	# Calculate and display accuracy on the test set.
+	ys_dnn = model.predict_classes(Xt, batch_size=256)
+	print("Deep neural network accuracy:")
+	accuracy(ys_dnn, yt)
 
-# Now we get to predict this year's tournament.
-test_years = [2017]
-test_stats = calc_stats(season_results, teams, seeds, test_years, 0.1)
+	# Now we get to predict this year's tournament.
+	test_years = [2017]
+	test_stats = calc_stats(season_results, teams, seeds, test_years, 0.1)
 
-# This is the bracket-style prediction.
-results = predict_tournament(2017, slots, seeds, test_stats, model, teams)
+	# This is the bracket-style prediction.
+	results = predict_tournament(2017, slots, seeds, test_stats, model, teams)
 
-# This is the prediction of every possible matchup in the tournament.
-pred_tournaments([2017], seeds, model, test_stats)
+	# This is the prediction of every possible matchup in the tournament.
+	pred_tournaments([2017], seeds, model, test_stats)
 
-# Print out our final bracket.
-display_pred(results)
+	# Print out our final bracket.
+	display_pred(results)
+
+main()
